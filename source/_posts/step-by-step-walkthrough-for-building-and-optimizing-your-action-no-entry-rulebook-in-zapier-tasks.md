@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Walkthrough for Building & Optimizing Your Action! No Entry Rulebook in Zapier Tasks
-date: 2024-09-18 21:49:57
-updated: 2024-09-20 11:41:39
+date: 2024-09-14T07:07:11.233Z
+updated: 2024-09-21T11:38:31.263Z
 tags:
   - product
 categories:
@@ -67,6 +67,13 @@ Action Tutorials
 
 ![Mirillis Action! - exclude file](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_exclude_file.jpg "Action! exclude file") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Move **exclude.txt** file to Action! installation folder.
 
 ![Mirillis Action! - exclude file](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_default_installation_folder_exclude_file.jpg "Action! exclude file") 
@@ -76,6 +83,20 @@ Action Tutorials
  Now check the name of the process or application you want to add to exclude list. Make sure that application you want to exclude is running and open Task Manager. Localize your selected process one the list. In our example it will be **test.exe** 
 
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_exclude_task_manager.jpg "Select activate tab") 
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Add process to exclude list 
 
@@ -98,11 +119,25 @@ Share this tutorial
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>[New] Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-detailed-guide-to-minecraft-capturing-techniques-on-mac/"><u>[New] In 2024, Detailed Guide to Minecraft Capturing Techniques on Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-optimal-orientation-top-tripods-for-iphones-and-androids/"><u>[Updated] 2024 Approved Optimal Orientation Top Tripods for iPhones & Androids</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1726027612606-m4a/"><u>楽しむM4Aオーディオの音量調節方法 : アップ下げテクニック</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-new-era-of-business-with-vr-integration-for-2024/"><u>A New Era of Business with VR Integration for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accessing-outlook-preview-via-windows-11-os/"><u>Accessing Outlook Preview via Windows 11 OS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exploring-the-depths-of-fraps-recorders-for-2024/"><u>Exploring the Depths of Fraps Recorders for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-vivo-s17-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo S17 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1726028018719-xmedia-recode/"><u>XMedia Recodeを使用した適切な音量補正ガイド</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1726029440695-iphoneandroid/"><u>スマートフォン用: IPhone/Android対応ニコニコ動画ダウンロード保存方法</u></a></li>
+</ul></div>
+

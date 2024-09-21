@@ -1,7 +1,7 @@
 ---
 title: Empowering SMEs in Singapore Through Microsoft's Artificial Intelligence Training Initiative
-date: 2024-09-19 18:36:42
-updated: 2024-09-20 11:23:32
+date: 2024-09-16T07:15:18.498Z
+updated: 2024-09-21T02:47:36.637Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,29 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-the-encore-list-top-pick-for-digital-music-tones/"><u>[Updated] The Encore List Top Pick for Digital Music Tones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-tutorial-for-setting-up-an-online-livestream/"><u>2024 Approved The Ultimate Tutorial for Setting Up an Online Livestream</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-7-video-streaming-innovations-excel-on-youtube-with-iphonesandroid-os/"><u>2024 Approved Top 7 Video Streaming Innovations Excel on YouTube with iPhones/Android OS</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-safariblocks-fixes-and-tips-to-open-webpages-effortlessly/"><u>Bypassing Safariblocks: Fixes and Tips to Open Webpages Effortlessly</u></a></li>
+<li><a href="https://win-bits.techidaily.com/dvdusb-windows-1011/"><u>DVDディスクをUSBフラッシュドライブに移動する - Windows 10・11で簡単な方法</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effortless-guide-extracting-audio-from-your-dvds-with-simple-steps/"><u>Effortless Guide: Extracting Audio From Your DVDs with Simple Steps</u></a></li>
+<li><a href="https://win-bits.techidaily.com/free-conversion-guide-changing-webm-media-to-mp4-for-hassle-free-playback/"><u>Free Conversion Guide: Changing WebM Media to MP4 for Hassle-Free Playback</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-realme-gt-neo-5-se-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Realme GT Neo 5 SE | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

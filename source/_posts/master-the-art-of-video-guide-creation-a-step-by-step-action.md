@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Video Guide Creation: A Step-by-Step Action!"
-date: 2024-09-18 16:37:16
-updated: 2024-09-20 12:13:46
+date: 2024-09-15T02:18:20.585Z
+updated: 2024-09-21T05:41:08.947Z
 tags:
   - product
 categories:
@@ -99,6 +99,19 @@ Please note that higher resolutions would result in better video quality but als
 
 ![Mirillis Action! - Settings](https://mirillis.com/res/old/gfx/tutorials/howto/v4.png) 
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For more advanced video recording settings open Mirllis Action! Settings and select Video Recording Settings. Here you can set more advanced video recording related settings or enable visualize mouse clicks option. 
 
 ![Mirillis Action! - Video recording settings](https://mirillis.com/res/old/gfx/tutorials/howto/v5.png) 
@@ -119,7 +132,21 @@ Please note that higher resolutions would result in better video quality but als
 
 ![Mirillis Action! - Video bitrate settings](https://mirillis.com/res/old/gfx/tutorials/howto/v7.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  With Bitrate option you can adjust the bitrate of your MP4 file format recordings. A higher bitrate means bigger output file size but also a better video quality. To set custom bitrate please use the slider.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Mouse click visualizations in video guide recordings
 
@@ -128,6 +155,13 @@ Please note that higher resolutions would result in better video quality but als
  In video guides one of the most important things is to demonstrate various features or actions using a mouse cursor. Recording your mouse cursor is a key feature for most of video guides.With Action! you can also add animated mouse click visualizations to make things even more clear for your audience.
 
 ![Mirillis Action! - Mouse click visualizations recording settings](https://mirillis.com/res/old/gfx/tutorials/howto/v10.png) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Microphone recording
 
@@ -140,6 +174,13 @@ Please note that higher resolutions would result in better video quality but als
 * Always record
 * Record on button down
 * Record on button down (on/off)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Using graphics overlay in your video guides
 
@@ -169,11 +210,28 @@ Please note that higher resolutions would result in better video quality but als
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-olympic-snowboard-x-sprint-highlights-22/"><u>[New] Olympic Snowboard X Sprint Highlights '22</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-a-symphony-of-sounds-no-cost-software-for-personalized-voice-modification/"><u>[Updated] In 2024, A Symphony of Sounds No-Cost Software for Personalized Voice Modification</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-10-photography-composition-rules-for-iphone/"><u>2024 Approved 10 Photography Composition Rules for iPhone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfecting-your-youtube-experience-stop-previews/"><u>2024 Approved Perfecting Your YouTube Experience - Stop Previews</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-youtubes-legal-framework-for-video-creators-for-2024/"><u>Decoding YouTube's Legal Framework for Video Creators for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g84-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G84 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mastering-scroll-captures-a-step-by-step-guide-to-screenshots-in-windows-11/"><u>Mastering Scroll Captures: A Step-by-Step Guide to Screenshots in Windows 11</u></a></li>
+<li><a href="https://win-bits.techidaily.com/os-7-melhores-programas-de-captura-de-tela-em-windows-nativo-opcoes-livres-e-faceis-de-utilizar/"><u>Os 7 Melhores Programas De Captura De Tela Em Windows Nativo: Opções Livres E Fáceis De Utilizar</u></a></li>
+<li><a href="https://win-bits.techidaily.com/passos-essenciais-para-aplicacao-de-maquiagem-fotografica-tecnicas-do-melhor-visualizador-profissional/"><u>Passos Essenciais Para Aplicação De Maquiagem Fotográfica: Técnicas Do Melhor Visualizador Profissional</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-lags-ultimate-guide-to-unfreeze-your-borderlands-3-game/"><u>Resolving Lags: Ultimate Guide to Unfreeze Your Borderlands 3 Game</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-easy-download-of-geforce-gt-730-drivers-by-nvidia-speedy-setup/"><u>Step-by-Step: Easy Download of GeForce GT 730 Drivers by NVIDIA - Speedy Setup!</u></a></li>
+<li><a href="https://win-bits.techidaily.com/transformez-votre-fic-amv-en-format-avi-gratuit-enligne-convertisseur-facile/"><u>Transformez Votre FIC Amv en Format Avi Gratuit Enligne - Convertisseur Facile</u></a></li>
+<li><a href="https://win-bits.techidaily.com/trasformare-immagini-pcx-in-formato-png-guida-rapida-e-gratuita-online-con-movavi/"><u>Trasformare Immagini PCX in Formato PNG: Guida Rapida E Gratuita Online Con Movavi</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ogm-mpeg-movavi/"><u>원격 방식으로 OGM MPEG 동영상을 편집: 무료 가이드 - Movavi</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Securing a Technical Position in Microsoft - Expert Tips From ZDNet
-date: 2024-09-18 12:29:32
-updated: 2024-09-20 10:23:40
+date: 2024-09-15T23:43:36.148Z
+updated: 2024-09-20T20:57:31.411Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +173,28 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-playtracker-insight/"><u>[New] Ultimate PlayTracker Insight</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-vs-camera-edition-deciding-between-gopro-hero-and-polaroid-cube-for-2024/"><u>[Updated] Vs. Camera Edition Deciding Between GoPro Hero & Polaroid Cube for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-boring-to-breathtaking-insta-video-tips/"><u>2024 Approved From Boring to Breathtaking Insta Video Tips</u></a></li>
+<li><a href="https://win-bits.techidaily.com/aac-webm-mp4/"><u>移動網隨時無限 AAC版本 - WEBM 到 MP4 自由搬家工具</u></a></li>
+<li><a href="https://win-bits.techidaily.com/alternatieve-programmas-voor-windows-movie-maker-een-comprehensive-guide/"><u>Alternatieve Programma's Voor Windows Movie Maker: Een Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leading-edge-mobile-ai-the-most-trusted-apps-for-you/"><u>Leading-Edge Mobile AI: The Most Trusted Apps for You</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/littlecapture-reviews-on-small-recorder-apps/"><u>LittleCapture Reviews on Small Recorder Apps</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-moto-e13-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-integrating-wsl-into-your-windows-lnksi-microsofts-latest-operating-system-innovation/"><u>Step-by-Step Tutorial: Integrating WSL Into Your Windows ˈlɪnksi, Microsoft’s Latest Operating System Innovation</u></a></li>
+<li><a href="https://win-bits.techidaily.com/troubleshooting-dvd-shrink-issues-on-windows-11-effective-solutions/"><u>Troubleshooting DVD Shrink Issues on Windows 11: Effective Solutions</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-choosing-the-best-mp3-to-wav-conversion-tools-on-pcmac/"><u>Ultimate Guide: Choosing the Best MP3 to WAV Conversion Tools on PC/Mac</u></a></li>
+<li><a href="https://win-bits.techidaily.com/unlocking-the-secrets-of-part-files-steps-to-access-and-conversion-guidelines/"><u>Unlocking the Secrets of PART Files: Steps to Access and Conversion Guidelines</u></a></li>
+<li><a href="https://win-bits.techidaily.com/windows-11youtube/"><u>Windows 11によるYouTube動画の効果的な記録テクニック</u></a></li>
+</ul></div>
+

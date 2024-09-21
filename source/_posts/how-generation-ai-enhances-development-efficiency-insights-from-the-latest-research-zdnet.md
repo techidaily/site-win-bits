@@ -1,7 +1,7 @@
 ---
 title: "How Generation AI Enhances Development Efficiency: Insights From the Latest Research | ZDNet"
-date: 2024-09-17 17:44:20
-updated: 2024-09-20 11:12:16
+date: 2024-09-14T09:15:39.158Z
+updated: 2024-09-21T00:13:34.918Z
 tags:
   - microsoft
 categories:
@@ -83,6 +83,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **4\. Pay for Windows 10 Extended Support**
 
 Of course, you could buy support for your Windows 10 machine. Microsoft recently [announced](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/when-to-use-windows-10-extended-security-updates/ba-p/4102628) pricing for its [Extended Security Updates (ESUs) for Windows 10](https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Extended%20Security%20Updates%20%28ESUs%29%20for%20Windows%2010%22%7D), particularly for businesses and educational institutions. Consumer pricing remains unclear.
@@ -114,6 +127,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +179,30 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-unlimited-legal-fb-beats-access/"><u>[New] In 2024, Unlimited, Legal FB Beats Access</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1726029810414-20249/"><u>【2024年】お使い推奨！たった今発表された、あなたを驚かせる9つの無料ビデオプレーヤー</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>2024 Approved Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-maximize-your-gaming-experience-fbx-edition/"><u>2024 Approved Maximize Your Gaming Experience FBX Edition</u></a></li>
+<li><a href="https://win-bits.techidaily.com/avimpegandavi-vs-mpeg/"><u>劣化なしでAVIをMPEGに変換する技術&AVI Vs. MPEGの特徴</u></a></li>
+<li><a href="https://win-bits.techidaily.com/beginners-manual-effortlessly-transform-your-dvds-into-mp4-with-the-help-of-vidcoder/"><u>Beginner's Manual: Effortlessly Transform Your DVDs Into MP4 with the Help of VidCoder</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-free-websites-for-downloading-tv-show-captions/"><u>Best Free Websites for Downloading TV Show Captions</u></a></li>
+<li><a href="https://win-bits.techidaily.com/comparing-the-two-versions-what-sets-psp-video-converter-factory-apart-from-its-professional-counterpart-psp-video-converter-factory-pro/"><u>Comparing the Two Versions: What Sets PSP Video Converter Factory Apart From Its Professional Counterpart, PSP Video Converter Factory Pro?</u></a></li>
+<li><a href="https://common-error.techidaily.com/cyclic-redundancy-check-explained-how-to-overcome-and-prevent-common-errors/"><u>Cyclic Redundancy Check Explained: How to Overcome and Prevent Common Errors</u></a></li>
+<li><a href="https://win-bits.techidaily.com/dvdusb-windows-1011/"><u>DVDディスクをUSBフラッシュドライブに移動する - Windows 10・11で簡単な方法</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-12-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 12</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1726030114919-mp3windows-11/"><u>MP3ファイルを改良するためのWindows 11ガイド:編集から調整まで</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-15-pro-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-13c-5g-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi 13C 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-best-instagram-extractors-for-memories-saved-for-2024/"><u>The Best Instagram Extractors for Memories Saved for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-reducing-your-discords-cpu-consumption/"><u>Ultimate Solution for Reducing Your Discord's CPU Consumption</u></a></li>
+</ul></div>
+

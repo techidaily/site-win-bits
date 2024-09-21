@@ -1,7 +1,7 @@
 ---
 title: "AI Chatbot Face-Off: Analyzing the Strength of ChatGPT Vs. Microsoft Copilot Vs. Gemini | Tech Comparison by ZDNET"
-date: 2024-09-18 22:39:39
-updated: 2024-09-20 11:49:45
+date: 2024-09-17T19:38:01.804Z
+updated: 2024-09-20T18:15:14.040Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +179,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-pixeled-play-log-audit/"><u>[New] In 2024, Pixeled Play Log Audit</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/bridging-beats-with-logic-pro-x-fade-techniques/"><u>Bridging Beats with Logic Pro X Fade Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/continuous-media-gatherers-for-2024/"><u>Continuous Media Gatherers for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnose-and-repair-error-0x803f8001-ensuring-smooth-gameplay-on-minecraft-launcher-in-windows-environments/"><u>Diagnose and Repair Error 0X803F8001: Ensuring Smooth Gameplay on Minecraft Launcher in Windows Environments</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/gamers-paradise-leading-5-hdmi-21-monitors-for-ps5/"><u>Gamers' Paradise Leading 5 HDMI 2.1 Monitors for PS5</u></a></li>
+<li><a href="https://facebook.techidaily.com/hidden-in-plain-sight-the-4-most-influential-silicon-stories/"><u>Hidden in Plain Sight: The 4 Most Influential Silicon Stories</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-to-fix-windows-11-error-code-0xc00d6d60-guide/"><u>How to Fix Windows 11 Error Code 0xC00D6D60 Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-iphone-13-pro-smoothly-by-drfone-ios/"><u>How To Remove iCloud From iPhone 13 Pro Smoothly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/inside-look-a-detailed-review-of-the-android-lightroom-app/"><u>Inside Look A Detailed Review of the Android Lightroom App</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mastering-the-art-of-recording-incoming-sounds-on-your-pc-with-windows-11/"><u>Mastering the Art of Recording Incoming Sounds on Your PC with Windows 11</u></a></li>
+<li><a href="https://win-bits.techidaily.com/online-free-video-transcoder-suite-effortless-format-changes/"><u>Online Free Video Transcoder Suite: Effortless Format Changes</u></a></li>
+<li><a href="https://win-bits.techidaily.com/pigoo/"><u>Pigooオンデマンドに対する録画とセーブ手順指南</u></a></li>
+<li><a href="https://win-bits.techidaily.com/playing-flac-audio-tracks-on-your-ipod-a-comprehensive-walkthrough-for-each-model/"><u>Playing FLAC Audio Tracks on Your iPod: A Comprehensive Walkthrough for Each Model</u></a></li>
+<li><a href="https://win-bits.techidaily.com/seamless-mp4-format-conversion-for-any-player-or-tv-high-quality-video-experience-guaranteed/"><u>Seamless MP4 Format Conversion for Any Player or TV - High-Quality Video Experience Guaranteed</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-leading-video-merge-tools-for-your-computer-a-comprehensive-review-of-superior-video-splicers/"><u>The Leading Video Merge Tools for Your Computer: A Comprehensive Review of Superior Video Splicers</u></a></li>
+</ul></div>
+

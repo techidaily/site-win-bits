@@ -1,7 +1,7 @@
 ---
 title: Will Microsoft Begin Fees for Windows 10 Update Downloads in the Following Year? Find Out Projected Prices - ZDNet
-date: 2024-09-19 18:46:37
-updated: 2024-09-20 12:13:58
+date: 2024-09-19T06:25:22.775Z
+updated: 2024-09-21T04:06:31.318Z
 tags:
   - microsoft
 categories:
@@ -115,11 +115,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +179,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-mac-recording-hub-essential-insights/"><u>[New] In 2024, Mac Recording Hub Essential Insights</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-maintaining-image-integrity-effective-instagram-photowatermarking-for-2024/"><u>[New] Maintaining Image Integrity Effective Instagram Photowatermarking for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-vector-image-hubs-ranked-1-to-10/"><u>[New] Premium Vector Image Hubs Ranked #1 to #10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-editors-playbook-top-tools-to-boost-your-ig-content/"><u>[Updated] In 2024, The Editor's Playbook Top Tools to Boost Your IG Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturing-discords-magic-3-steps-for-ensuring-your-live-stream-stays-alive/"><u>2024 Approved Capturing Discord's Magic 3 Steps for Ensuring Your Live Stream Stays Alive</u></a></li>
+<li><a href="https://win-bits.techidaily.com/aac-webm-mp4/"><u>移動網隨時無限 AAC版本 - WEBM 到 MP4 自由搬家工具</u></a></li>
+<li><a href="https://win-bits.techidaily.com/alternatieve-programmas-voor-windows-movie-maker-een-comprehensive-guide/"><u>Alternatieve Programma's Voor Windows Movie Maker: Een Comprehensive Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/anoemas-ultimate-guide-transforming-flv-content-into-webm-format-at-no-cost/"><u>Anoema's Ultimate Guide: Transforming FLV Content Into WebM Format at No Cost</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-elite-5-digital-title-specialists-for-2024/"><u>Exploring the Elite 5 Digital Title Specialists for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-fix-slowly-loading-youtube-content-on-mobile/"><u>In 2024, Fix Slowly Loading YouTube Content on Mobile</u></a></li>
+<li><a href="https://win11.techidaily.com/streamline-windows-11s-printer-interface-max-52-chars/"><u>Streamline Windows 11'S Printer Interface (Max 52 Chars)</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-the-secrets-to-premieres-full-screen-mode/"><u>Unveiling the Secrets to Premiere's Full Screen Mode</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Surpasses Windows
-date: 2024-09-19 12:11:18
-updated: 2024-09-20 12:27:22
+date: 2024-09-19T08:15:07.464Z
+updated: 2024-09-20T21:33:06.455Z
 tags:
   - windows
 categories:
@@ -38,6 +38,13 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -77,6 +84,13 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -88,6 +102,13 @@ Screenshot by Lance Whitney/ZDNET
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -119,11 +140,27 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-microsoft-screen-recorder-download-and-use-guide/"><u>[New] In 2024, Microsoft Screen Recorder Download and Use Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-extensive-review-the-360-degree-capture-of-samsung-for-2024/"><u>[Updated] Extensive Review The 360-Degree Capture of Samsung for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-pixelpioneer-8-version-visual-conjurer-for-2024/"><u>[Updated] PixelPioneer 8-Version Visual Conjurer for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-innovating-realms-history-of-vr/"><u>2024 Approved Innovating Realms History of VR</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-troubleshooting-techniques-for-common-windows-update-issue-error-80070103/"><u>Mastering Troubleshooting Techniques for Common Windows Update Issue (Error 80070103)</u></a></li>
+<li><a href="https://win-bits.techidaily.com/pigoo/"><u>Pigooオンデマンドに対する録画とセーブ手順指南</u></a></li>
+<li><a href="https://win-bits.techidaily.com/playing-flac-audio-tracks-on-your-ipod-a-comprehensive-walkthrough-for-each-model/"><u>Playing FLAC Audio Tracks on Your iPod: A Comprehensive Walkthrough for Each Model</u></a></li>
+<li><a href="https://win-bits.techidaily.com/seamless-mp4-format-conversion-for-any-player-or-tv-high-quality-video-experience-guaranteed/"><u>Seamless MP4 Format Conversion for Any Player or TV - High-Quality Video Experience Guaranteed</u></a></li>
+<li><a href="https://win-bits.techidaily.com/simple-steps-to-insert-a-logo-into-your-videos-using-pc-tools-and-online-apps/"><u>Simple Steps to Insert a Logo Into Your Videos Using PC Tools and Online Apps</u></a></li>
+<li><a href="https://win-bits.techidaily.com/simple-tricks-for-free-downloading-jet-lis-movie-collection/"><u>Simple Tricks for FREE Downloading Jet Li's Movie Collection</u></a></li>
+<li><a href="https://win-bits.techidaily.com/spotifymp3/"><u>SpotifyからMP3に: 専用フリープログラムで簡単な音楽変換</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-solutions-for-addressing-repeated-pc-shutdowns-due-to-content-warnings/"><u>Step-By-Step Solutions for Addressing Repeated PC Shutdowns Due to Content Warnings</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Beyond Ransomware: How Unintended Software Glitches Could Bring Vital Systems to Their Knees | Analysis on ZDNET"
-date: 2024-09-18 19:55:24
-updated: 2024-09-20 10:56:36
+date: 2024-09-14T20:59:16.851Z
+updated: 2024-09-20T23:13:08.806Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,34 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-boosting-engagement-customizing-your-shorts-first-impressions/"><u>[New] 2024 Approved Boosting Engagement Customizing Your Shorts' First Impressions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-vlogging-equipment-and-basic-software-tools-to-start-vlogging-for-2024/"><u>[New] Vlogging Equipment and Basic Software Tools to Start Vlogging for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-revolutionizing-advertising-top-20-influential-expressions/"><u>[Updated] In 2024, Revolutionizing Advertising Top 20 Influential Expressions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-streaming-services-app-investigation-findings/"><u>2024 Approved Streaming Services App Investigation Findings</u></a></li>
+<li><a href="https://win-bits.techidaily.com/anoemas-ultimate-guide-transforming-flv-content-into-webm-format-at-no-cost/"><u>Anoema's Ultimate Guide: Transforming FLV Content Into WebM Format at No Cost</u></a></li>
+<li><a href="https://win-bits.techidaily.com/comment-decouper-des-clips-dans-une-video-avec-le-logiciel-vlc/"><u>Comment Découper Des Clips Dans Une Vidéo Avec Le Logiciel VLC</u></a></li>
+<li><a href="https://win-bits.techidaily.com/editing-comments-on-videos-a-comprehensive-guide-using-movavi-video-editor/"><u>Editing Comments on Videos: A Comprehensive Guide Using Movavi Video Editor</u></a></li>
+<li><a href="https://win-bits.techidaily.com/free-converter-transform-gifs-into-high-quality-webm-format-with-easy-online-tools/"><u>Free Converter: Transform GIFs Into High-Quality WebM Format with Easy Online Tools</u></a></li>
+<li><a href="https://win-bits.techidaily.com/guia-detallada-para-dividir-videos-con-vlc-en-2024/"><u>Guía Detallada Para Dividir Videos Con VLC en 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-x9a-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Honor X9a to Mac? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-v30-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo V30 and Browser | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavim1vmpeg/"><u>オンラインでフリーソフト利用! MovaviでM1VをMPEGにスムーズに変換</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

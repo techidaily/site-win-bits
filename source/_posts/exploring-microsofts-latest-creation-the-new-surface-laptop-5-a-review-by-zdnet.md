@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's Latest Creation: The New Surface Laptop 5 - A Review by ZDNet"
-date: 2024-09-18T17:39:35.787Z
-updated: 2024-09-21T02:00:38.763Z
+date: 2024-09-22T16:44:56.805Z
+updated: 2024-09-25T22:14:36.466Z
 tags:
   - microsoft
 categories:
@@ -84,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -129,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -180,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-a-comprehensive-list-of-top-10-video-communication-apps/"><u>[New] In 2024, A Comprehensive List of Top 10 Video Communication Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-visuals-that-convert-mastering-the-art-of-video-marketing-on-insta/"><u>[New] In 2024, Visuals That Convert Mastering the Art of Video Marketing on Insta</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-discovering-vector-images-a-beginners-overview-of-categories/"><u>[Updated] Discovering Vector Images A Beginner’s Overview of Categories</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-ultimate-guide-converting-dvd-videots-to-high-quality-avi-files-effortlessly/"><u>1. Ultimate Guide: Converting DVD Video_TS to High-Quality AVI Files Effortlessly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-countdown-configuration-for-obs-users-a-compreenas-guide/"><u>2024 Approved Countdown Configuration for OBS Users A Compreenas Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/boosting-teamwork-and-efficiency-in-an-outdated-office-a-comprehensive-guide-to-modernization-strategies-zdnet/"><u>Boosting Teamwork & Efficiency in an Outdated Office: A Comprehensive Guide to Modernization Strategies | ZDNET</u></a></li>
+<li><a href="https://win-bits.techidaily.com/detailed-review-of-jabra-evolve2-75-audio-gear-ideal-anc-solution-and-24-hour-talk-time-for-remote-and-mixed-work-environments-analysis-by-zdnet/"><u>Detailed Review of Jabra Evolve2 75 Audio Gear: Ideal ANC Solution & 24-Hour Talk Time for Remote and Mixed Work Environments | Analysis by ZDNET</u></a></li>
+<li><a href="https://win-bits.techidaily.com/extend-the-lifespan-of-your-computer-with-these-cost-free-tricks-beating-the-end-of-support-in-windows-11-gadgetflow/"><u>Extend the Lifespan of Your Computer with These Cost-Free Tricks, Beating the End of Support in Windows 11 | GadgetFlow</u></a></li>
+<li><a href="https://win-bits.techidaily.com/impact-of-googles-antitrust-legal-defeat-implications-for-users-and-the-evolving-landscape-of-online-search-techinsights/"><u>Impact of Google's Antitrust Legal Defeat: Implications for Users & The Evolving Landscape of Online Search | TechInsights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-honor-x8b-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/integrating-microsoft-copilot-into-singapores-judicial-tech-ecosystem-a-new-era-of-legal-automation-zdnet/"><u>Integrating Microsoft Copilot Into Singapore's Judicial Tech Ecosystem: A New Era of Legal Automation | ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/is-microsofts-bing-retreating-in-the-battle-against-google-as-per-zdnet-analysis/"><u>Is Microsoft's Bing Retreating in the Battle Against Google, as Per ZDNet Analysis?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/key-insights-discover-what-microsoft-revealed-about-surface-and-ai-innovations-during-recent-showcase-explore-in-detail-on-zdnet/"><u>Key Insights: Discover What Microsoft Revealed About Surface and AI Innovations During Recent Showcase - Explore in Detail on ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/microsoft-gears-up-for-another-overhaul-of-the-windows-update-routine-insights-from-zdnet/"><u>Microsoft Gears Up for Another Overhaul of the Windows Update Routine - Insights From ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/revitalizing-your-touchpads-performance-no-driver/"><u>Revitalizing Your Touchpad's Performance, No Driver?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/secure-your-digital-presence-using-multi-factor-authentication-activation-tips-and-tricks-insights-from-zdnet/"><u>Secure Your Digital Presence Using Multi-Factor Authentication: Activation Tips & Tricks - Insights From ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-guide-setting-up-the-superior-sg-wizard-in-kodi-with-top-tier-leia-configurations/"><u>Ultimate Guide: Setting Up the Superior SG Wizard in Kodi with Top-Tier Leia Configurations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-your-creativity-the-top-ipad-video-editing-apps/"><u>Updated In 2024, Unleash Your Creativity The Top iPad Video Editing Apps</u></a></li>
+</ul></div>
 

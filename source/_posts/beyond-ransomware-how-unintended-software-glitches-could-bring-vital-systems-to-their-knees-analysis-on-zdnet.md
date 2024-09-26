@@ -1,7 +1,7 @@
 ---
 title: "Beyond Ransomware: How Unintended Software Glitches Could Bring Vital Systems to Their Knees | Analysis on ZDNET"
-date: 2024-09-14T20:59:16.851Z
-updated: 2024-09-20T23:13:08.806Z
+date: 2024-09-23T22:18:49.795Z
+updated: 2024-09-25T18:01:35.341Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,30 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-create-a-youtube-account/"><u>[New] In 2024, How to Create a YouTube Account</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-video-content-to-youtubes-niche-needs/"><u>[Updated] Tailoring Video Content to Youtube's Niche Needs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-understanding-instagrams-tune-trademark-policies-for-2024/"><u>[Updated] Understanding Instagram's Tune Trademark Policies for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-video-transfer-mastery-with-myspass-downloader-seamless-conversion-from-myspass-to-popular-video-formats/"><u>1. 'Video Transfer Mastery with Myspass Downloader: Seamless Conversion From Myspass to Popular Video Formats'</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-easymp4-converter-transfer-your-favorite-dramafire-content-into-high-quality-video-format/"><u>1. EasyMP4 Converter: Transfer Your Favorite DramaFire Content Into High-Quality Video Format</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-analyzing-pewdiepies-financial-growth-and-revenue/"><u>2024 Approved Analyzing PewDiePie’s Financial Growth and Revenue</u></a></li>
+<li><a href="https://win-bits.techidaily.com/allavsoft-the-ultimate-spotify-to-mp3-converter-for-mac-and-windows-pcs/"><u>Allavsoft: The Ultimate Spotify-to-MP3 Converter for Mac & Windows PCs</u></a></li>
+<li><a href="https://win-bits.techidaily.com/convert-and-download-cinemassacre-video-content-as-mp4-wmv-mov-flv-or-avi-for-pc-and-mac/"><u>Convert & Download Cinemassacre Video Content as MP4, WMV, MOV, FLV or AVI for PC and Mac</u></a></li>
+<li><a href="https://win-bits.techidaily.com/download-free-episodes-from-wattiv-ultimate-guide-to-catching-up-on-your-favorite-shows/"><u>Download Free Episodes From WATTIV: Ultimate Guide to Catching Up on Your Favorite Shows</u></a></li>
+<li><a href="https://win-bits.techidaily.com/download-songs-from-simfy-in-high-quality-get-mp3-wav-and-flac-formats/"><u>Download Songs From Simfy in High Quality: Get MP3, WAV, and FLAC Formats</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/granja-de-grabaciones-de-pantalla-y-sonido-en-vivo-una-guia-detallada/"><u>Granja De Grabaciones De Pantalla Y Sonido en Vivo: Una Guía Detallada</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-13-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 13 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/silence-the-clicks-effective-solutions-to-stop-your-arctis-7-headset-from-making-crackling-sounds-on-pc/"><u>Silence the Clicks: Effective Solutions to Stop Your Arctis 7 Headset From Making Crackling Sounds on PC</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/step-into-photo-magic-innovative-edits-on-snapchat/"><u>Step Into Photo Magic Innovative Edits on Snapchat</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-compilation-best-volume-boosting-software-for-windows-users-seeking-immediate-results/"><u>The Ultimate Compilation Best Volume Boosting Software for Windows Users Seeking Immediate Results</u></a></li>
+<li><a href="https://win-bits.techidaily.com/understanding-folders-files-and-page-organization-on-flipbuildercom/"><u>Understanding Folders, Files & Page Organization on FlipBuilder.com</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

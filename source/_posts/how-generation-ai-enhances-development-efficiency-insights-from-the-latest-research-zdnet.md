@@ -1,7 +1,7 @@
 ---
 title: "How Generation AI Enhances Development Efficiency: Insights From the Latest Research | ZDNet"
-date: 2024-09-14T09:15:39.158Z
-updated: 2024-09-21T00:13:34.918Z
+date: 2024-09-20T21:10:18.948Z
+updated: 2024-09-25T23:45:30.522Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -128,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -186,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-funimate-the-game-changers-manual/"><u>[Updated] Funimate The Game Changer's Manual</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-seamless-tv-integration-looping-videos-from-youtube-on-large-screens/"><u>[Updated] Seamless TV Integration Looping Videos From YouTube on Large Screens</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-download-high-quality-hip-hop-music-videos-in-multiple-formats-mp4-avi-mov-wmv-and-mkv/"><u>1. Download High-Quality Hip Hop Music Videos in Multiple Formats: MP4, AVI, MOV, WMV & MKV</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-access-fb-urls-at-free-optimal-downloader-tools-of-the-year/"><u>2024 Approved Access FB URLs at FREE Optimal Downloader Tools of the Year</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leading-selection-of-10-free-video-subtitle-extractors/"><u>2024 Approved Leading Selection of 10 Free Video Subtitle Extractors</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-free-streaming-services-for-music-videos-find-and-watch-your-favorite-tunes-online-and-off/"><u>Best Free Streaming Services for Music Videos: Find & Watch Your Favorite Tunes Online and Off</u></a></li>
+<li><a href="https://win-bits.techidaily.com/download-and-convert-tutv-content-to-video-files-mp4-avi-on-pc-or-mac-using-tutv-software/"><u>Download & Convert tu.tv Content to Video Files (MP4, AVI) on PC or Mac Using Tutv Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinstating-working-activation-numbers-in-win11/"><u>Reinstating Working Activation Numbers in Win11</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-converting-your-favorite-yogaglo-sessions-into-common-video-formats-like-mp4-mov-or-avi/"><u>Step-by-Step Guide: Converting Your Favorite YogaGlo Sessions Into Common Video Formats Like MP4, MOV, or AVI</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-transforming-moviefone-streams-into-mp4avi-files-on-both-windows-and-macos/"><u>Step-by-Step Guide: Transforming Moviefone Streams Into MP4/AVI Files on Both Windows and macOS</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-instructions-for-downloading-vvvvid-content-to-your-desktop-system/"><u>Step-by-Step Instructions for Downloading VVVVID Content to Your Desktop System</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/steps-to-resolve-stuck-obs-camera-feed-for-2024/"><u>Steps to Resolve Stuck OBS Camera Feed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-ultimate-shortcut-to-instagram-video-connectivity-for-2024/"><u>The Ultimate Shortcut to Instagram Video Connectivity for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/top-12-best-meme-makers-online-for-free-for-2024/"><u>Top 12 Best Meme Makers Online for FREE for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-rated-cross-platform-video-downloader-allavsoft-your-ultimate-solution-for-macos-and-windows/"><u>Top Rated Cross-Platform Video Downloader: Allavsoft – Your Ultimate Solution for macOS & Windows</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-tubidy-tool-quick-and-easy-music-video-and-movie-downloads-from-tubidy/"><u>Ultimate Tubidy Tool: Quick & Easy Music, Video & Movie Downloads From Tubidy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-hidden-potential-top-5-underrated-chatgpt-capabilities/"><u>Unlock Hidden Potential: Top 5 Underrated ChatGPT Capabilities</u></a></li>
+</ul></div>
 

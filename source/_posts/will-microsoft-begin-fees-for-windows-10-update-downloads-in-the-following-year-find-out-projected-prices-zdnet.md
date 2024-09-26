@@ -1,7 +1,7 @@
 ---
 title: Will Microsoft Begin Fees for Windows 10 Update Downloads in the Following Year? Find Out Projected Prices - ZDNet
-date: 2024-09-19T06:25:22.775Z
-updated: 2024-09-21T04:06:31.318Z
+date: 2024-09-19T22:20:35.254Z
+updated: 2024-09-25T19:41:03.371Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,19 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -135,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -186,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-essence-of-elegance-in-video-color-balancing/"><u>[New] 2024 Approved The Essence of Elegance in Video Color Balancing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-follower-erosion-how-to-spot-it-on-insta/"><u>[New] In 2024, Follower Erosion How to Spot It on Insta</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-subtle-music-level-decrease-for-pcmac-users/"><u>[New] In 2024, Subtle Music Level Decrease for PC/Mac Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-thrive-with-1000-new-followers-each-month-for-2024/"><u>[New] Thrive with 1,000 New Followers Each Month for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-inception-filming-review-examination/"><u>[Updated] 2024 Approved Inception Filming Review Examination</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-use-creative-commons-copyright-licenses-for-2024/"><u>[Updated] How to Use Creative Commons Copyright Licenses for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-key-to-discovery-perfecting-your-youtube-tags-game/"><u>[Updated] Key to Discovery Perfecting Your YouTube Tags Game</u></a></li>
+<li><a href="https://win-bits.techidaily.com/detailed-review-of-jabra-evolve2-75-audio-gear-ideal-anc-solution-and-24-hour-talk-time-for-remote-and-mixed-work-environments-analysis-by-zdnet/"><u>Detailed Review of Jabra Evolve2 75 Audio Gear: Ideal ANC Solution & 24-Hour Talk Time for Remote and Mixed Work Environments | Analysis by ZDNET</u></a></li>
+<li><a href="https://win-bits.techidaily.com/extend-the-lifespan-of-your-computer-with-these-cost-free-tricks-beating-the-end-of-support-in-windows-11-gadgetflow/"><u>Extend the Lifespan of Your Computer with These Cost-Free Tricks, Beating the End of Support in Windows 11 | GadgetFlow</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-8-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 8 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-bits.techidaily.com/integrating-microsoft-copilot-into-singapores-judicial-tech-ecosystem-a-new-era-of-legal-automation-zdnet/"><u>Integrating Microsoft Copilot Into Singapore's Judicial Tech Ecosystem: A New Era of Legal Automation | ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/is-microsofts-bing-retreating-in-the-battle-against-google-as-per-zdnet-analysis/"><u>Is Microsoft's Bing Retreating in the Battle Against Google, as Per ZDNet Analysis?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/key-insights-discover-what-microsoft-revealed-about-surface-and-ai-innovations-during-recent-showcase-explore-in-detail-on-zdnet/"><u>Key Insights: Discover What Microsoft Revealed About Surface and AI Innovations During Recent Showcase - Explore in Detail on ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/microsoft-gears-up-for-another-overhaul-of-the-windows-update-routine-insights-from-zdnet/"><u>Microsoft Gears Up for Another Overhaul of the Windows Update Routine - Insights From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/navigating-microsofts-latest-gear-for-todays-flexible-office-landscape-insights-from-zdnet/"><u>Navigating Microsoft's Latest Gear for Today's Flexible Office Landscape - Insights From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/the-verdict-on-the-new-microsoft-surface-laptop-5-satisfaction-with-limits-insights-from-zdnet-experts/"><u>The Verdict on the New Microsoft Surface Laptop #5: Satisfaction with Limits? Insights From ZDNET Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-honor-x7b-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Honor X7b? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

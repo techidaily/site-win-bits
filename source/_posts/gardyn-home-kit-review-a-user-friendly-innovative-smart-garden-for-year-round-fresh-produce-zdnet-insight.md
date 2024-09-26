@@ -1,7 +1,7 @@
 ---
 title: "Gardyn Home Kit Review: A User-Friendly, Innovative Smart Garden for Year-Round Fresh Produce | ZDNET Insight"
-date: 2024-09-16T21:19:57.912Z
-updated: 2024-09-20T17:44:11.738Z
+date: 2024-09-19T21:25:46.949Z
+updated: 2024-09-25T18:34:40.387Z
 tags:
   - office-furniture
 categories:
@@ -50,6 +50,13 @@ We've had the Gardyn for about two months and our first harvest is upon us. How 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Setting up the Gardyn
 
 Okay, this was a little trickier than I bargained for. The Gardyn 3.0, which adds durability and evolving AI capabilities since the 2.0 release, takes up a relatively small footprint but, dimensionally, is quite large, standing 64" and encompassing three different growing towers. 
@@ -82,6 +89,13 @@ Greg Nichols/ZDNET
 
 The coolest feature is also the one that's easiest to miss. The built-in cameras monitor plant growth and optimize the schedule based on your garden. The system can tell how fast your plants are growing and customize the light and watering cycle to suit your specific garden. This is vastly more powerful than simple timer-based devices.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## App experience 
 
 All communication with your Gardyn takes place via the app. Gardyn's AI essentially tells you what to do via Kelby, the smart personal assistant.
@@ -102,6 +116,13 @@ One cool feature is that you can view your plants in real-time in your app throu
 
 The app's plant book allows for some great discoverability. I wasn't familiar with borage, for example, but look forward to growing the edible flower. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## A quibble
 
 Overall I'm really impressed with the Gardyn Home Kit 3.0 and plan to use it onboard Lindy for years to come. But I do have some notes.
@@ -113,10 +134,10 @@ Lining up the tower as it's lifted back onto the base after cleaning has consist
 [Gardyn Home Kit 3.0 $695 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJS4YMNQ%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce618b943-7f6b-4f1a-8346-7ebf247df64d%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bottom line 
@@ -126,13 +147,6 @@ At the end of the day, I'm very impressed with the [Gardyn Home Kit 3.0](https:/
 Despite my quibbles above, this ranks as an impressive and [powerful home-growing system](https://www.zdnet.com/home-and-office/kitchen-household/best-indoor-garden/) for a wide variety of vegetables. The company's technology is first-rate, and while setup is a chore and water changes can be cumbersome, the proof is in the pudding. I'm getting garden fresh greens and veggies in the belly of our old boat. It's so cool being anchored off the Channel Islands here in Southern California with fresh greens for dinner waiting to be harvested below. 
 
 If you don't have outdoor space but want to grow a large quantity and variety of plants and herbs, this system should definitely be on your radar.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider 
 
@@ -176,5 +190,20 @@ A single growing stand that's expandable to 36 plants for a legit indoor farm.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-encompass-entire-webpage-in-view/"><u>[New] Encompass Entire Webpage in View</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-savor-your-day-8-essential-tools-for-instagram-video-management-for-2024/"><u>[New] Savor Your Day 8 Essential Tools for Instagram Video Management for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-tactics-for-youtube-success-in-25-ways/"><u>[Updated] 2024 Approved Essential Tactics for YouTube Success in 25 Ways</u></a></li>
+<li><a href="https://win-bits.techidaily.com/complete-windows-11-user-manual-expert-advice-for-a-smooth-upgrade-with-insights-from-zdnet/"><u>Complete Windows 11 User Manual: Expert Advice for a Smooth Upgrade with Insights From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/debunking-top-misconceptions-how-windows-users-mistake-macos-insights-from-zdnet/"><u>Debunking Top Misconceptions: How Windows Users Mistake MacOS, Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-tutorial-convert-any-youtube-video-into-an-animated-gif-file/"><u>Easy Tutorial: Convert Any YouTube Video Into an Animated GIF File</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-streaming-sensations-worlds-most-popular-video-content-makers/"><u>Elite Streaming Sensations World's Most Popular Video Content Makers</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ensure-continuous-access-to-windows-11-updates-in-the-coming-year-the-expected-price-explained-technewszdnet/"><u>Ensure Continuous Access to Windows 11 Updates in the Coming Year - The Expected Price Explained | TechNewsZDNet</u></a></li>
+<li><a href="https://media-tips.techidaily.com/1723620234977-expert-tips-on-converting-video-files-avi-to-mp4-wmv-etc-and-audio-tracks-mp3-easily-improve-compatibility-across-all-devices/"><u>Expert Tips on Converting Video Files (AVI to MP4, WMV, Etc.) And Audio Tracks (MP3) Easily: Improve Compatibility Across All Devices!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-12-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 12 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/microsoft-confirms-engineers-adore-the-innovative-features-of-windows-11-insights-from-zdnet/"><u>Microsoft Confirms: Engineers Adore the Innovative Features of Windows 11 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/microsoft-faces-major-window-of-opportunity-for-fixing-windows-11-with-a-deadline-in-365-days-zdnet/"><u>Microsoft Faces Major Window of Opportunity for Fixing Windows 11 – With a Deadline in 365 Days (ZDNET)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722969962144-troubleshooting-made-easy-finding-and-fixing-elgato-hd60-driver-issues-today/"><u>Troubleshooting Made Easy: Finding and Fixing Elgato HD60 Driver Issues Today!</u></a></li>
+</ul></div>
 

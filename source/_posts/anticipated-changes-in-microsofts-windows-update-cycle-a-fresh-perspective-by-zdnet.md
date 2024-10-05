@@ -1,7 +1,7 @@
 ---
 title: "Anticipated Changes in Microsoft's Windows Update Cycle: A Fresh Perspective by ZDNet"
-date: 2024-09-28T22:30:42.534Z
-updated: 2024-09-29T18:59:37.197Z
+date: 2024-09-30T18:55:49.951Z
+updated: 2024-10-05T16:56:27.493Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -91,10 +84,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-fake-following-fiasco-avoiding-illusory-supporters-in-social-media-space/"><u>[New] 2024 Approved Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-building-meme-foundations/"><u>[New] Expert Tips Building Meme Foundations</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-abbreviated-film-dialogue-scheme/"><u>[Updated] In 2024, Abbreviated Film Dialogue Scheme</u></a></li>
-<li><a href="https://win-bits.techidaily.com/black-friday-bargains-at-microsoft-store-score-a-discounted-300-surface-go-2-or-snag-the-230-acer-convertible-for-less-exclusive-deals-from-zdnet/"><u>Black Friday Bargains at Microsoft Store: Score a Discounted $300 Surface Go 2 or Snag the $230 Acer Convertible for Less! - Exclusive Deals From ZDNet</u></a></li>
-<li><a href="https://win-bits.techidaily.com/boost-your-windows-11-laptop-lifespan-essential-9-configuration-adjustments-to-optimize-battery-use/"><u>Boost Your Windows 11 Laptop Lifespan: Essential 9 Configuration Adjustments to Optimize Battery Use</u></a></li>
-<li><a href="https://win-bits.techidaily.com/boosting-teamwork-and-efficiency-in-an-outdated-office-a-comprehensive-guide-to-modernization-strategies-zdnet/"><u>Boosting Teamwork & Efficiency in an Outdated Office: A Comprehensive Guide to Modernization Strategies | ZDNET</u></a></li>
-<li><a href="https://win-bits.techidaily.com/detailed-review-of-jabra-evolve2-75-audio-gear-ideal-anc-solution-and-24-hour-talk-time-for-remote-and-mixed-work-environments-analysis-by-zdnet/"><u>Detailed Review of Jabra Evolve2 75 Audio Gear: Ideal ANC Solution & 24-Hour Talk Time for Remote and Mixed Work Environments | Analysis by ZDNET</u></a></li>
-<li><a href="https://win-bits.techidaily.com/enhance-your-pc-with-windows-pro-a-guide-for-home-edition-users-zdnet/"><u>Enhance Your PC with Windows Pro: A Guide for Home Edition Users - ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-setting-up-your-social-media-presence-with-twitter/"><u>In 2024, Setting Up Your Social Media Presence with Twitter</u></a></li>
-<li><a href="https://os-tips.techidaily.com/phone-overheating-follow-these-tips-to-cool-things-down/"><u>Phone Overheating? Follow These Tips to Cool Things Down!</u></a></li>
-<li><a href="https://win-bits.techidaily.com/secure-your-digital-presence-using-multi-factor-authentication-activation-tips-and-tricks-insights-from-zdnet/"><u>Secure Your Digital Presence Using Multi-Factor Authentication: Activation Tips & Tricks - Insights From ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-tunes-prime-sites-for-got-ringtone-downloads-for-2024/"><u>Top Tunes Prime Sites for GoT Ringtone Downloads for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-enterprise-features-benefits-and-unique-advantages/"><u>Understanding ChatGPT Enterprise: Features, Benefits, and Unique Advantages</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wav-avi/"><u>WAV 파일을 AVI로 자유성 버전화하는 방법: 웹사이트 내용의 가장 나은 해결책</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/your-makeup-maestro-journey-establishing-a-channel-for-beauty-buffs/"><u>Your Makeup Maestro Journey Establishing a Channel for Beauty Buffs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-the-ultimate-guide-canvas-hidden-tips-and-tricks/"><u>[New] 2024 Approved The Ultimate Guide Canva's Hidden Tips & Tricks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-bringing-back-the-glitter-integrating-instagram-effects-to-past-media/"><u>[New] In 2024, Bringing Back the Glitter Integrating Instagram Effects to Past Media</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-activate-and-customize-zooms-virtual-screen-mode/"><u>[New] In 2024, How to Activate and Customize Zoom's Virtual Screen Mode</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-lag-free-screen-recording-tools-top-picks-for-flawless-screencasts/"><u>Best Lag-Free Screen Recording Tools: Top Picks for Flawless Screencasts</u></a></li>
+<li><a href="https://article-files.techidaily.com/cinematography-insights-the-leading-5-secrets/"><u>Cinematography Insights The Leading 5 Secrets</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effortless-guide-casting-your-pc-screen-onto-an-android-device/"><u>Effortless Guide: Casting Your PC Screen Onto an Android Device</u></a></li>
+<li><a href="https://win-bits.techidaily.com/exclusive-apowersoft-background-remover-contest-enter-now-for-a-chance-to-win-a-free-trial/"><u>Exclusive Apowersoft Background Remover Contest - Enter Now for a Chance to Win a Free Trial!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insight-on-the-glion-dolly-e-scooter-premium-features-at-a-high-cost/"><u>Expert Insight on the Glion Dolly E-Scooter: Premium Features at a High Cost</u></a></li>
+<li><a href="https://win-bits.techidaily.com/get-the-lowdown-on-iphone-xs-pricing-insights-comprehensive-reviews-and-complete-tech-specs/"><u>Get the Lowdown on iPhone XS: Pricing Insights, Comprehensive Reviews, & Complete Tech Specs</u></a></li>
+<li><a href="https://win-bits.techidaily.com/quick-guide-seamlessly-integrate-srt-subtitles-into-avi-format/"><u>Quick Guide: Seamlessly Integrate SRT Subtitles Into AVI Format</u></a></li>
+<li><a href="https://win-bits.techidaily.com/seamless-file-transfer-guide-connecting-your-pc-with-samsung-galaxy-s10/"><u>Seamless File Transfer Guide: Connecting Your PC with Samsung Galaxy S10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-power-of-persuasion-maximizing-facebook-ad-performance-through-animation-for-2024/"><u>The Power of Persuasion Maximizing Facebook Ad Performance Through Animation for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-gionee-f3-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Gionee F3 Pro to Other Android Devices | Dr.fone</u></a></li>
 </ul></div>
 

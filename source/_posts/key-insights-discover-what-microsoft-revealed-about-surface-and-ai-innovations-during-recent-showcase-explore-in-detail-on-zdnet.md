@@ -1,7 +1,7 @@
 ---
 title: "Key Insights: Discover What Microsoft Revealed About Surface and AI Innovations During Recent Showcase - Explore in Detail on ZDNet"
-date: 2024-09-29T04:28:20.337Z
-updated: 2024-09-30T01:19:16.874Z
+date: 2024-10-02T19:02:48.310Z
+updated: 2024-10-05T22:05:34.829Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +97,16 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,10 +142,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -152,6 +157,13 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,15 +208,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-masterful-approaches-to-live-sports-video-capture/"><u>[New] 2024 Approved Masterful Approaches to Live Sports Video Capture</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-key-aspects-of-web-based-storytelling-for-2024/"><u>[Updated] Key Aspects of Web-Based Storytelling for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-thrive-on-instavid-a-guide-to-creating-a-solid-video-marketing-framework-for-2024/"><u>[Updated] Thrive on InstaVid A Guide to Creating a Solid Video Marketing Framework for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/best-free-streaming-services-for-music-videos-find-and-watch-your-favorite-tunes-online-and-off/"><u>Best Free Streaming Services for Music Videos: Find & Watch Your Favorite Tunes Online and Off</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/conquer-the-shadows-cracking-the-code-on-cod-black-ops-cold-war-boicw-error-87b4x-a3z9y/"><u>Conquer the Shadows: Cracking The Code on COD: Black Ops Cold War (BOICW) Error 87B4X-A3Z9Y</u></a></li>
-<li><a href="https://win-bits.techidaily.com/download-and-convert-tutv-content-to-video-files-mp4-avi-on-pc-or-mac-using-tutv-software/"><u>Download & Convert tu.tv Content to Video Files (MP4, AVI) on PC or Mac Using Tutv Software</u></a></li>
-<li><a href="https://win-bits.techidaily.com/download-kisscartoon-content-securely-enjoy-top-anime-series-anytime-anywhere/"><u>Download KissCartoon Content Securely: Enjoy Top Anime Series Anytime, Anywhere</u></a></li>
-<li><a href="https://win-bits.techidaily.com/easy-video-retrieval-with-putlocker-the-ultimate-guide-for-mac-and-windows-users/"><u>Easy Video Retrieval with PutLocker: The Ultimate Guide for Mac & Windows Users</u></a></li>
-<li><a href="https://win11.techidaily.com/ensuring-timely-updates-adding-an-efficient-checkup-toolbar-to-win11/"><u>Ensuring Timely Updates: Adding an Efficient Checkup Toolbar to Win11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-high-quality-srt-translation-services-1-8-for-2024/"><u>Free, High-Quality SRT Translation Services – #1-#8 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-from-low-res-to-hd-your-first-foray-into-frame-rates/"><u>[New] From Low-Res to HD Your First Foray Into Frame Rates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-money-making-top-13-strategies-for-novice-reddit-users/"><u>[New] Mastering Money-Making Top 13 Strategies for Novice Reddit Users</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-decoding-the-secrets-to-efficient-cd-ripping-via-wmp/"><u>[Updated] 2024 Approved Decoding the Secrets to Efficient Cd Ripping via WMP</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-content-revenue-route-map-comparing-the-best-streaming-platforms/"><u>[Updated] In 2024, Content Revenue Route Map Comparing the Best Streaming Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/st-free-youtube-name-generators-you-should-know-for-2024/"><u>11 Best Free YouTube Name Generators You Should Know for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-v27ewithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo V27ewith/without a PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-reno-8t-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Reno 8T 5G FRP Bypass</u></a></li>
+<li><a href="https://win-bits.techidaily.com/master-the-art-of-printing-your-iphones-contact-information-with-these-expert-techniques/"><u>Master the Art of Printing Your iPhone's Contact Information with These Expert Techniques</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-avi-editor-for-windows-8-effortless-video-editing-experience-2023-for-2024/"><u>The Ultimate AVI Editor for Windows 8 Effortless Video Editing Experience - 2023 for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-tips-for-capturing-screen-shots-efficiently-on-your-pc/"><u>Top Tips for Capturing Screen Shots Efficiently on Your PC</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-to-excellent-contact-management-and-backup-apps/"><u>Ultimate Guide to Excellent Contact Management & Backup Apps</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-expertly-curated-mac-mind-mapping-apps-of-202/"><u>Ultimate Guide: Expertly Curated Mac Mind Mapping Apps of 202</u></a></li>
+<li><a href="https://win-bits.techidaily.com/understanding-the-wmv-video-file-format-a-comprehensive-guide/"><u>Understanding the WMV Video File Format: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/various-methods-to-document-online-conferencing-sessions-with-a-webcam/"><u>Various Methods to Document Online Conferencing Sessions with a Webcam</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/virtualdub-review-is-it-still-the-best-video-editor-in-2024/"><u>Virtualdub Review Is It Still the Best Video Editor , In 2024</u></a></li>
 </ul></div>
 

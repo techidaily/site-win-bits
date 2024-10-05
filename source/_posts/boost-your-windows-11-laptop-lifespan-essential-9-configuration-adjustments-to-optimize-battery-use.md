@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Windows 11 Laptop Lifespan: Essential 9 Configuration Adjustments to Optimize Battery Use"
-date: 2024-09-27T00:24:10.688Z
-updated: 2024-09-30T03:28:42.390Z
+date: 2024-10-01T17:12:10.772Z
+updated: 2024-10-05T18:23:51.792Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +104,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,16 +148,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-layout-layers-a-guide-to-organizing-online-videos/"><u>[New] In 2024, Layout Layers A Guide to Organizing Online Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-adopting-hdri-for-superior-visual-storytelling-in-video-arts/"><u>2024 Approved Adopting HDRI for Superior Visual Storytelling in Video Arts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/are-camera-shakes-less-troublesome-after-photostable-effects-for-2024/"><u>Are Camera Shakes Less Troublesome After PhotoStable Effects for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/critical-deadline-for-microsoft-as-windows-11-issues-mount-with-only-a-year-left-digital-insight-blog/"><u>Critical Deadline for Microsoft as Windows 11 Issues Mount with Only a Year Left | Digital Insight Blog</u></a></li>
-<li><a href="https://win-bits.techidaily.com/effortless-access-to-windows-11-with-a-microsoft-365-business-profile-a-comprehensive-guide-for-enhanced-security-and-syncing-why-you-need-it-zdnet/"><u>Effortless Access to Windows 11 with a Microsoft 365 Business Profile - A Comprehensive Guide for Enhanced Security and Syncing (Why You Need It) | ZDNet</u></a></li>
-<li><a href="https://win-bits.techidaily.com/exclusive-guide-to-scoring-the-best-black-friday-gift-card-bargains-easy-savings-for-everyone-zdnet/"><u>Exclusive Guide to Scoring the Best Black Friday Gift Card Bargains - Easy Savings for Everyone | ZDNet</u></a></li>
-<li><a href="https://win-bits.techidaily.com/experiencing-pure-bliss-with-a-macbook-insights-from-a-google-enthusiast-the-downside-of-using-windows-laptops/"><u>Experiencing Pure Bliss with a MacBook: Insights From a Google Enthusiast - The Downside of Using Windows Laptops</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-generation-ai-enhances-development-efficiency-insights-from-the-latest-research-zdnet/"><u>How Generation AI Enhances Development Efficiency: Insights From the Latest Research | ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nokia-g42-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nokia G42 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-get-netflix-for-free/"><u>How to Get Netflix for Free</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Poco C51? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Realme Narzo N55? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-remove-background-using-picsart/"><u>In 2024, How to Remove Background Using Picsart</u></a></li>
-<li><a href="https://win-bits.techidaily.com/microsofts-newest-release-a-potential-annoyance-or-a-surprising-delight-insights-from-zdnet/"><u>Microsoft's Newest Release: A Potential Annoyance or a Surprising Delight? - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/refining-photos-the-step-by-step-guide-to-clean-edges-on-photopea-for-2024/"><u>Refining Photos The Step-by-Step Guide to Clean Edges on Photopea for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/save-big-secure-your-microsoft-office-2019-for-less-than-26-windows-and-mac-compatible-offers-now/"><u>Save Big: Secure Your Microsoft Office 2019 for Less Than $26 – Windows & Mac Compatible Offers Now!</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-it-certifications-across-every-professional-phase-insights-from-zdnet/"><u>Top IT Certifications Across Every Professional Phase: Insights From ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/troubleshooting-guide-downloading-and-setting-up-the-epson-xp-830-drivers/"><u>Troubleshooting Guide: Downloading & Setting Up the Epson XP-830 Drivers</u></a></li>
-<li><a href="https://win-bits.techidaily.com/will-microsoft-begin-fees-for-windows-10-update-downloads-in-the-following-year-find-out-projected-prices-zdnet/"><u>Will Microsoft Begin Fees for Windows 10 Update Downloads in the Following Year? Find Out Projected Prices - ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-orderly-quest-for-veiled-youtube-vaults/"><u>[New] The Orderly Quest for Veiled YouTube Vaults</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[Updated] 2024 Approved Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-bridging-the-gap-luts-from-cg-central-to-movie-colors/"><u>[Updated] Bridging the Gap Luts From CG Central to Movie Colors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-windows-movie-maker-tips-for-youtube-editing-excellence/"><u>[Updated] Windows Movie Maker Tips for YouTube Editing Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dangers-dont-get-a-chatgpt-androidios-app/"><u>Dangers: Don't Get a ChatGPT Android/iOS App</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effective-strategies-for-minimizing-your-digital-video-footage/"><u>Effective Strategies for Minimizing Your Digital Video Footage</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/logitech-mx-710-gamepad-drivers-how-to-fetch-the-latest-software-version/"><u>Logitech MX 710 Gamepad Drivers - How to Fetch the Latest Software Version</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mac-users-guide-mastering-the-gameplay-techniques-in-call-of-duty-mobile/"><u>Mac Users Guide: Mastering the Gameplay Techniques in Call of Duty Mobile</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oneplus-11r-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus 11R Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-tips-for-capturing-screen-shots-efficiently-on-your-pc/"><u>Top Tips for Capturing Screen Shots Efficiently on Your PC</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-to-excellent-contact-management-and-backup-apps/"><u>Ultimate Guide to Excellent Contact Management & Backup Apps</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-expertly-curated-mac-mind-mapping-apps-of-202/"><u>Ultimate Guide: Expertly Curated Mac Mind Mapping Apps of 202</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-online-dailymotion-converter-fast-free-and-easy-to-use/"><u>Updated Online Dailymotion Converter Fast, Free, and Easy to Use</u></a></li>
+<li><a href="https://win-bits.techidaily.com/various-methods-to-document-online-conferencing-sessions-with-a-webcam/"><u>Various Methods to Document Online Conferencing Sessions with a Webcam</u></a></li>
+<li><a href="https://win-bits.techidaily.com/zero-cost-methods-for-combining-pdf-documents-on-the-internet/"><u>Zero Cost Methods for Combining PDF Documents on the Internet</u></a></li>
 </ul></div>
 

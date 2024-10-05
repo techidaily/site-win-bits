@@ -1,7 +1,7 @@
 ---
 title: "AI Chatbot Face-Off: Analyzing the Strength of ChatGPT Vs. Microsoft Copilot Vs. Gemini | Tech Comparison by ZDNET"
-date: 2024-09-26T23:38:46.417Z
-updated: 2024-09-30T09:27:06.758Z
+date: 2024-09-30T20:58:44.399Z
+updated: 2024-10-05T20:17:15.820Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-choices-for-screen-recorders-that-dont-tie-you-down/"><u>[New] Top Choices for Screen Recorders That Don't Tie You Down</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlock-creativity-the-best-collection-of-free-slide-show-patterns/"><u>[New] Unlock Creativity The Best Collection of Free Slide Show Patterns</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1726029810414-20249/"><u>【2024年】お使い推奨！たった今発表された、あなたを驚かせる9つの無料ビデオプレーヤー</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1726029698276-5-effective-methods-for-converting-wma-files-to-mp3-a-comprehensive-guide-updated/"><u>5 Effective Methods for Converting WMA Files to MP3: A Comprehensive Guide (Updated )</u></a></li>
-<li><a href="https://win-bits.techidaily.com/avimpegandavi-vs-mpeg/"><u>劣化なしでAVIをMPEGに変換する技術&AVI Vs. MPEGの特徴</u></a></li>
-<li><a href="https://win-bits.techidaily.com/beginners-manual-effortlessly-transform-your-dvds-into-mp4-with-the-help-of-vidcoder/"><u>Beginner's Manual: Effortlessly Transform Your DVDs Into MP4 with the Help of VidCoder</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-hybrid-card-problem-in-windows-11/"><u>Fixing Hybrid Card Problem in Windows 11</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-cutting-edge-online-methods-for-supercharging-vhs-artifacts/"><u>In 2024, Cutting-Edge Online Methods for Supercharging VHS Artifacts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-generate-giggle-worthy-graphics/"><u>In 2024, Generate Giggle-Worthy Graphics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Nokia C300? | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1726030114919-mp3windows-11/"><u>MP3ファイルを改良するためのWindows 11ガイド:編集から調整まで</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-on-how-to-convert-and-save-audible-books-as-a-physical-cd-with-minimal-hassles/"><u>The Ultimate Tutorial on How to Convert and Save Audible Books as a Physical CD with Minimal Hassles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-transition-the-rise-of-electric-cars/"><u>Understanding the Transition: The Rise of Electric Cars</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-driver-reinstallation-usb-focus-for-legacy-machines/"><u>Windows Driver Reinstallation: USB Focus for Legacy Machines</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1726029647434-and/"><u>マルチプラットフォーム対応:ミラーリング動画方法 ウィンドウズ&マック用</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-av1-compression-a-beginners-overview/"><u>[Updated] AV1 Compression A Beginner's Overview</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-navigating-youtubes-community-standards-as-a-viewer-or-creator/"><u>[Updated] In 2024, Navigating YouTube's Community Standards as a Viewer or Creator</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-fast-photo-journey-crafting-quick-dynamic-google-collages/"><u>2024 Approved The Fast Photo Journey Crafting Quick, Dynamic Google Collages</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/dxabbyy/"><u>企業に最適なDX加速ツール：ABBYYで導くデジタルインテリジェンス力向上法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/are-vloggers-compensated-for-product-critiques-in-2024/"><u>Are Vloggers Compensated for Product Critiques, In 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-techniques-for-recording-sound-with-your-chromebook/"><u>Best Techniques for Recording Sound with Your Chromebook</u></a></li>
+<li><a href="https://win-bits.techidaily.com/complete-step-by-step-tutorial-creating-custom-mp3-ringtones-on-your-iphone/"><u>Complete Step-by-Step Tutorial: Creating Custom MP3 Ringtones on Your iPhone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/easy-and-quick-methods-to-access-vk-songs-a-user-friendly-guide/"><u>Easy and Quick Methods to Access VK Songs - A User-Friendly Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effortless-methods-to-screenshot-and-share-your-desktop-activity/"><u>Effortless Methods to Screenshot and Share Your Desktop Activity</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/no-cash-all-fun-turning-twitter-vids-into-gifs-for-2024/"><u>No Cash, All Fun Turning Twitter Vids Into GIFs for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/razer-blade-stealth-13-review/"><u>Razer Blade Stealth 13 Review</u></a></li>
+<li><a href="https://win-bits.techidaily.com/screen-recording-solutions-beyond-the-built-in-windows-10-gaming-toolbar/"><u>Screen Recording Solutions Beyond the Built-In Windows 10 Gaming Toolbar</u></a></li>
+<li><a href="https://win-bits.techidaily.com/snap-pictures-with-crisp-snow-like-backdrops/"><u>Snap Pictures with Crisp Snow-Like Backdrops</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-capturing-flawless-video-broadcasts-on-ustream-made-easy/"><u>Step-by-Step Tutorial: Capturing Flawless Video Broadcasts on Ustream Made Easy</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-google-pixel-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-resource-consumption-in-windows-optimizing-pcs-for-efficient-media-handling/"><u>Taming Resource Consumption in Windows: Optimizing PCs for Efficient Media Handling</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-rated-video-platforms-expert-picks-beyond-youtube/"><u>Top Rated Video Platforms: Expert Picks Beyond YouTube</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-ranking-instagram-photo-enhancers/"><u>Top-Ranking Instagram Photo Enhancers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/video-economy-hc-v770-insight/"><u>Video Economy: HC-V770 Insight</u></a></li>
 </ul></div>
 

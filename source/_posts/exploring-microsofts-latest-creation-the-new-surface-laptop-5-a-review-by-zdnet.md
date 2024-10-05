@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's Latest Creation: The New Surface Laptop 5 - A Review by ZDNet"
-date: 2024-09-25T07:55:55.196Z
-updated: 2024-09-30T08:56:32.000Z
+date: 2024-09-29T17:00:51.354Z
+updated: 2024-10-05T23:19:09.435Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,16 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,16 +142,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,15 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-expert-strategies-for-choosing-ideal-youtube-banner-dimensions/"><u>[New] In 2024, Expert Strategies for Choosing Ideal YouTube Banner Dimensions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-top-20-keywords-for-stellar-marketing-strategies/"><u>[Updated] In 2024, Top 20 Keywords for Stellar Marketing Strategies</u></a></li>
-<li><a href="https://common-error.techidaily.com/effective-solutions-for-audio-issues-on-your-windows-7-pc/"><u>Effective Solutions for Audio Issues on Your Windows 7 PC</u></a></li>
-<li><a href="https://win-bits.techidaily.com/free-conversion-guide-changing-webm-media-to-mp4-for-hassle-free-playback/"><u>Free Conversion Guide: Changing WebM Media to MP4 for Hassle-Free Playback</u></a></li>
-<li><a href="https://win-bits.techidaily.com/guide-merging-mp4-videos-seamlessly-in-windows-11/"><u>Guide: Merging MP4 Videos Seamlessly in Windows 11</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-fix-windows-11-error-code-0xc00d6d60-guide/"><u>How to Fix Windows 11 Error Code 0xC00D6D60 Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-x-flip-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo X Flip without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/mastering-the-art-of-recording-incoming-sounds-on-your-pc-with-windows-11/"><u>Mastering the Art of Recording Incoming Sounds on Your PC with Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/podcast-beat-initiation-essential-melody-hotspots-for-2024/"><u>Podcast Beat Initiation Essential Melody Hotspots for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/smooth-interactive-ui-on-windows-after-repair/"><u>Smooth Interactive UI on Windows After Repair</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-seamless-transitions-elevating-your-drone-footage/"><u>[New] Seamless Transitions Elevating Your Drone Footage</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-quick-reference-for-mac-writers-obsplusstreamlabs/"><u>[Updated] The Ultimate Quick Reference for Mac' Writers OBS+Streamlabs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/4-essential-methods-for-file-delivery-to-pc/"><u>4 Essential Methods for File Delivery to PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-to-repair-a-broken-integrated-webcam-in-windows-os/"><u>A Comprehensive Guide to Repair a Broken Integrated Webcam in Windows OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/acrylic-sealant-optional-for-added-durability/"><u>Acrylic Sealant (Optional for Added Durability)</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effective-strategies-for-minimizing-your-digital-video-footage/"><u>Effective Strategies for Minimizing Your Digital Video Footage</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/ergodyne-topo-mat-evaluation-revolutionize-your-standing-experience/"><u>Ergodyne Topo Mat Evaluation: Revolutionize Your Standing Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>In 2024, From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mac-users-guide-mastering-the-gameplay-techniques-in-call-of-duty-mobile/"><u>Mac Users Guide: Mastering the Gameplay Techniques in Call of Duty Mobile</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mastering-raid-shadow-legends-a-step-by-step-guide-for-pc-gamers/"><u>Mastering Raid Shadow Legends: A Step-by-Step Guide for PC Gamers</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mastering-video-capture-a-comprehensive-guide-to-recording-with-obs-and-other-top-tools/"><u>Mastering Video Capture: A Comprehensive Guide to Recording with OBS & Other Top Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/reset-the-scene-fixing-your-facebook/"><u>Reset the Scene Fixing Your Facebook</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-100-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor 100</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-sharing-your-content-on-instagram-via-pc-or-mac/"><u>Step-by-Step Guide: Sharing Your Content on Instagram via PC or Mac</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-tips-for-capturing-screen-shots-efficiently-on-your-pc/"><u>Top Tips for Capturing Screen Shots Efficiently on Your PC</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-vlogging-editor-tools-the-aplus-picks-for-online-content-makers/"><u>Ultimate Vlogging Editor Tools: The A+ Picks for Online Content Makers</u></a></li>
+<li><a href="https://win-bits.techidaily.com/why-cant-apowersoft-phone-manager-read-your-contacts-and-messages-in-call-history-on-android-a-comprehensive-guide/"><u>Why Can't Apowersoft Phone Manager Read Your Contacts and Messages in Call History on Android? A Comprehensive Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/zero-cost-methods-for-combining-pdf-documents-on-the-internet/"><u>Zero Cost Methods for Combining PDF Documents on the Internet</u></a></li>
 </ul></div>
 

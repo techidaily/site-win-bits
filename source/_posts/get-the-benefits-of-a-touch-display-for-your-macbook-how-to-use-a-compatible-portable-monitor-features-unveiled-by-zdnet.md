@@ -1,7 +1,7 @@
 ---
 title: "Get the Benefits of a Touch Display for Your MacBook: How to Use a Compatible Portable Monitor – Features Unveiled by ZDNet"
-date: 2024-09-29T07:44:05.527Z
-updated: 2024-09-29T19:36:19.626Z
+date: 2024-09-29T22:27:10.518Z
+updated: 2024-10-05T21:00:46.444Z
 tags:
   - office-furniture
 categories:
@@ -42,10 +42,10 @@ That mostly holds true with the Espresso Display V2, save for the cheaper price 
 The 15-inch touchscreen model that I've been testing [costs $499](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1bc3d3b8-b3a2-40ce-8922-9ea265e1f3ec%7Cdtp&dtb=1), which isn't the most expensive portable monitor out there, but it's a marginal step up from the sub-$200 offerings that you'd typically find on [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fs%3Fk%3Dportable%2Bmonitor%26i%3Delectronics%26crid%3D24ZP2PE8N0I59%26sprefix%3Dportable%2Bmonitor%2Celectronics%2C82%26ref%3Dnb%5Fsb%5Fnoss%5F1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1bc3d3b8-b3a2-40ce-8922-9ea265e1f3ec%7Cdtp&dtb=1). Here's my review of it.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,10 +63,16 @@ The 15-inch touchscreen model that I've been testing [costs $499](https://buy.ge
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Designed for minimalists
@@ -109,6 +115,13 @@ June Wan/ZDNET
 
 There are bottom-firing speakers on the monitor, but you're better off using the native one(s) of your connected device. It's certainly astounding how Espresso managed to cram a functioning speaker into the chassis, but in its pursuit of slimness, the actual audio performance takes a major hit. 
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Finally, a touchscreen for Mac
 
 Industrial achievements aside, the Display V2 impressed me the most by doing something that even Apple cannot: giving touchscreen support for my MacBook. As many [ZDNET contributors and readers have opined](https://www.zdnet.com/article/the-results-are-in-zdnets-linkedin-fans-want-a-touchscreen-macbook-too/), a MacBook with a touchscreen would make one of the best productivity machines even better. While the Display V2 doesn't turn your actual MacBook display into a touchscreen, it does replicate the content, allowing you to interact with taps, presses, and swipes. 
@@ -124,10 +137,10 @@ June Wan/ZDNET
 [Buy the Espresso Display V2 $683.07 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09WMX6442%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1bc3d3b8-b3a2-40ce-8922-9ea265e1f3ec%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Should you buy it?
@@ -135,13 +148,6 @@ June Wan/ZDNET
 The [Espresso Display V2](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fespresso-Display-Touchscreen-Portable-External%2Fdp%2FB09WMX6442%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C1bc3d3b8-b3a2-40ce-8922-9ea265e1f3ec%7Cdtp&dtb=1) is the thinnest portable monitor in the world, which means, by design, there are benefits and drawbacks. For traveling business people, hybrid workers, and digital nomads, the enhanced portability and simple set-up will be greatly appreciated. For remote and stationary workers, the ability to flex between display orientations and interact via touch comes in handy. 
 
 The things I'd watch out for are the subpar speakers, additional upcharges for accessories, and the glossy display panel, especially if you work near windows. If you can shoulder these limitations, then the Espresso Display V2 is as good as portable monitors get.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -189,21 +195,22 @@ For a no-frills portable monitor, we'd recommend this 15.6-inch, touchscreen off
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-selecting-optimal-frame-rate-30fps-vs-60fps-for-quality-recording/"><u>[New] 2024 Approved Selecting Optimal Frame Rate 30Fps Vs. 60Fps for Quality Recording</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-tailoring-your-zoom-experience-for-different-industries-on-windows-11/"><u>[New] Tailoring Your Zoom Experience for Different Industries on Windows 11</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-toolbox-what-every-youtube-newbie-needs/"><u>[New] The Ultimate Toolbox What Every YouTube Newbie Needs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-advanced-tricks-for-ios-screenshots-just-got-updated/"><u>[Updated] Advanced Tricks for iOS Screenshots - Just Got Updated</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bot-interactions-and-anonymity-unveiling-3-major-privacy-issues/"><u>Bot Interactions and Anonymity: Unveiling 3 Major Privacy Issues</u></a></li>
-<li><a href="https://win-bits.techidaily.com/easy-video-retrieval-with-putlocker-the-ultimate-guide-for-mac-and-windows-users/"><u>Easy Video Retrieval with PutLocker: The Ultimate Guide for Mac & Windows Users</u></a></li>
-<li><a href="https://win-bits.techidaily.com/effortless-redtube-video-downloading-compatible-with-macos-and-windows/"><u>Effortless RedTube Video Downloading: Compatible with macOS & Windows</u></a></li>
-<li><a href="https://win-bits.techidaily.com/enjoy-youtube-without-interruptions-secrets-to-accessing-premier-content-free-of-charge/"><u>Enjoy YouTube Without Interruptions: Secrets to Accessing Premier Content Free of Charge</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-download-music-and-movies-from-godtube-in-high-quality-mp3-and-mp4-format-compatible-with-pcs-and-macs/"><u>How to Download Music & Movies From Godtube in High Quality - MP3 & MP4 Format Compatible with PCs and Macs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-12-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 12</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-top-5-oneplus-11-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 OnePlus 11 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-streaming-hurdles-tips-to-address-netflix-playback-troubles/"><u>Overcoming Streaming Hurdles: Tips to Address Netflix Playback Troubles</u></a></li>
-<li><a href="https://win-bits.techidaily.com/quickvideodownloader-for-gemoline-effortless-video-extraction-from-gemonlinetv/"><u>QuickVideoDownloader for Gemoline: Effortless Video Extraction From Gemonline.tv</u></a></li>
-<li><a href="https://win-bits.techidaily.com/seamless-youtube-to-wmv-file-conversion-guide-preserve-and-upgrade-your-downloads-with-expert-tips/"><u>Seamless YouTube to WMV File Conversion Guide: Preserve and Upgrade Your Downloads with Expert Tips</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-converting-your-ustream-videos-into-mp3mp4-files/"><u>Step-by-Step Guide: Converting Your Ustream Videos Into MP3/MP4 Files</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-designers-odyssey-navigating-to-professional-prominence/"><u>The Designer's Odyssey Navigating to Professional Prominence</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-savvy-sound-engineers-10-best-free-lut-picks/"><u>[New] 2024 Approved Savvy Sound Engineers' 10 Best FREE LUT Picks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/lite-alternative-edits-skip-youtube-not-just-content/"><u>[New] Elite Alternative Edits Skip Youtube, Not Just Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-seize-the-money-opportunity-monetizing-on-youtube-through-mobile-devices/"><u>[Updated] In 2024, Seize the Money Opportunity Monetizing on YouTube Through Mobile Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-seamless-music-integration-transform-your-favorite-tunes-into-youtube-content/"><u>[Updated] Seamless Music Integration Transform Your Favorite Tunes Into YouTube Content</u></a></li>
+<li><a href="https://win-bits.techidaily.com/comprehensive-evaluation-best-screen-recording-apps-on-iphone-6/"><u>Comprehensive Evaluation: Best Screen Recording Apps on iPhone 6</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-brother-mfc-7860dw-printer-drivers-for-windows-pcs/"><u>Download & Update Brother MFC-7860DW Printer Drivers for Windows PCs</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effective-strategies-for-minimizing-your-digital-video-footage/"><u>Effective Strategies for Minimizing Your Digital Video Footage</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/extract-and-convert-tracks-from-22tracks-to-multiple-audio-types-wav-mp3-flac/"><u>Extract and Convert Tracks From 22Tracks to Multiple Audio Types (WAV, MP3, FLAC)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-poco-m6-pro-4g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Poco M6 Pro 4G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-nord-n30-se-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus Nord N30 SE Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mac-users-guide-mastering-the-gameplay-techniques-in-call-of-duty-mobile/"><u>Mac Users Guide: Mastering the Gameplay Techniques in Call of Duty Mobile</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mastering-raid-shadow-legends-a-step-by-step-guide-for-pc-gamers/"><u>Mastering Raid Shadow Legends: A Step-by-Step Guide for PC Gamers</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mastering-video-capture-a-comprehensive-guide-to-recording-with-obs-and-other-top-tools/"><u>Mastering Video Capture: A Comprehensive Guide to Recording with OBS & Other Top Tools</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-sharing-your-content-on-instagram-via-pc-or-mac/"><u>Step-by-Step Guide: Sharing Your Content on Instagram via PC or Mac</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-vlogging-editor-tools-the-aplus-picks-for-online-content-makers/"><u>Ultimate Vlogging Editor Tools: The A+ Picks for Online Content Makers</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/why-cant-apowersoft-phone-manager-read-your-contacts-and-messages-in-call-history-on-android-a-comprehensive-guide/"><u>Why Can't Apowersoft Phone Manager Read Your Contacts and Messages in Call History on Android? A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Will Microsoft Begin Fees for Windows 10 Update Downloads in the Following Year? Find Out Projected Prices - ZDNet
-date: 2024-09-28T10:17:54.161Z
-updated: 2024-09-30T10:13:56.876Z
+date: 2024-10-03T18:14:29.172Z
+updated: 2024-10-05T20:29:03.643Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premium-desktop-and-mobile-video-call-platforms-zoom-replacements/"><u>[New] 2024 Approved Premium Desktop & Mobile Video Call Platforms (Zoom Replacements)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-a-comprehensive-tutorial-changing-gender-in-social-media-images/"><u>[Updated] 2024 Approved A Comprehensive Tutorial Changing Gender in Social Media Images</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-narzo-60-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme Narzo 60 Pro 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/beginning-your-virtual-adventure-crafting-an-oculus-questquest-2-profile/"><u>Beginning Your Virtual Adventure: Crafting an Oculus Quest/Quest 2 Profile</u></a></li>
-<li><a href="https://windows11.techidaily.com/chkdsk-vs-scan-disk-delving-into-dissects-function-in-system-repairing/"><u>Chkdsk Vs. Scan Disk: Delving Into Dissect's Function in System Repairing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-swapping-out-phone-power-worthwhile/"><u>Is Swapping Out Phone Power Worthwhile?</u></a></li>
-<li><a href="https://video-capture.techidaily.com/perfect-presentation-powerpoint-recordings-on-webcam/"><u>Perfect Presentation PowerPoint Recordings on Webcam</u></a></li>
-<li><a href="https://win-bits.techidaily.com/spotifymp3/"><u>SpotifyからMP3に: 専用フリープログラムで簡単な音楽変換</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-to-transforming-pro-tools-sdii-and-sound-designer-ii-recordings-into-wav-audio/"><u>Step-by-Step Guide to Transforming Pro Tools' SDII and Sound Designer II Recordings Into WAV Audio</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-how-to-stream-mkv-videos-on-sony-playstation-3-console/"><u>Step-by-Step Tutorial: How to Stream MKV Videos on Sony PlayStation 3 Console</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-optimizing-your-kodi-box-with-gridiron-legends-for-superior-live-football-streams/"><u>Step-by-Step Tutorial: Optimizing Your Kodi Box with Gridiron Legends for Superior Live Football Streams</u></a></li>
-<li><a href="https://win-bits.techidaily.com/troubleshooting-dvd-shrink-issues-on-windows-11-effective-solutions/"><u>Troubleshooting DVD Shrink Issues on Windows 11: Effective Solutions</u></a></li>
-<li><a href="https://win-bits.techidaily.com/ultimate-guide-choosing-the-best-mp3-to-wav-conversion-tools-on-pcmac/"><u>Ultimate Guide: Choosing the Best MP3 to WAV Conversion Tools on PC/Mac</u></a></li>
-<li><a href="https://win-bits.techidaily.com/unlocking-the-secrets-of-part-files-steps-to-access-and-conversion-guidelines/"><u>Unlocking the Secrets of PART Files: Steps to Access and Conversion Guidelines</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dynamic-shots-infusing-energy-into-your-youtube-videos/"><u>[New] 2024 Approved Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-a-guide-to-gathering-creative-themes-using-google-trends/"><u>[New] In 2024, A Guide to Gathering Creative Themes Using Google Trends</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effective-strategies-for-minimizing-your-digital-video-footage/"><u>Effective Strategies for Minimizing Your Digital Video Footage</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g29-driver-update-on-windows-compatible-with-win10win11win7/"><u>Get Your Logitech G29 Driver Update on Windows - Compatible with Win10/Win11/Win7</u></a></li>
+<li><a href="https://win-bits.techidaily.com/mac-users-guide-mastering-the-gameplay-techniques-in-call-of-duty-mobile/"><u>Mac Users Guide: Mastering the Gameplay Techniques in Call of Duty Mobile</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722977860826-optimize-your-amd-ryzen-5-2500u-seamless-guide-to-the-newest-drivers/"><u>Optimize Your AMD Ryzen 5 2500U - Seamless Guide to the Newest Drivers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-razer-mouse-driver-install-guide/"><u>Quick Razer Mouse Driver Install Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-tips-for-capturing-screen-shots-efficiently-on-your-pc/"><u>Top Tips for Capturing Screen Shots Efficiently on Your PC</u></a></li>
+<li><a href="https://win-bits.techidaily.com/zero-cost-methods-for-combining-pdf-documents-on-the-internet/"><u>Zero Cost Methods for Combining PDF Documents on the Internet</u></a></li>
 </ul></div>
 

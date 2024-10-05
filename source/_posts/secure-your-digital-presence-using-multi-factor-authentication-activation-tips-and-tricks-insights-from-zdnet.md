@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Presence Using Multi-Factor Authentication: Activation Tips & Tricks - Insights From ZDNet"
-date: 2024-09-24T22:27:49.634Z
-updated: 2024-09-30T11:10:03.457Z
+date: 2024-09-30T18:31:08.176Z
+updated: 2024-10-05T17:02:10.476Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -89,6 +82,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +129,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +202,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-engaging-life-journeys-in-video-formats/"><u>[New] In 2024, Crafting Engaging Life Journeys in Video Formats</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-recording-trick-webcam-plus-display-on-the-fly/"><u>[Updated] Quick Recording Trick Webcam + Display on the Fly</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/buy-now-the-premier-eraser-for-iphone-users-touchscreen-friendly-and-smudge-free/"><u>Buy Now: The Premier Eraser for iPhone Users - Touchscreen Friendly & Smudge Free</u></a></li>
-<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/complete-windows-11-user-manual-expert-advice-for-a-smooth-upgrade-with-insights-from-zdnet/"><u>Complete Windows 11 User Manual: Expert Advice for a Smooth Upgrade with Insights From ZDNet</u></a></li>
-<li><a href="https://win-bits.techidaily.com/debunking-top-misconceptions-how-windows-users-mistake-macos-insights-from-zdnet/"><u>Debunking Top Misconceptions: How Windows Users Mistake MacOS, Insights From ZDNet</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-samsung-galaxy-f54-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-itel-p55plus-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Itel P55+ Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/ensure-continuous-access-to-windows-11-updates-in-the-coming-year-the-expected-price-explained-technewszdnet/"><u>Ensure Continuous Access to Windows 11 Updates in the Coming Year - The Expected Price Explained | TechNewsZDNet</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Itel A05s? | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/microsoft-confirms-engineers-adore-the-innovative-features-of-windows-11-insights-from-zdnet/"><u>Microsoft Confirms: Engineers Adore the Innovative Features of Windows 11 - Insights From ZDNet</u></a></li>
-<li><a href="https://win-bits.techidaily.com/microsoft-faces-major-window-of-opportunity-for-fixing-windows-11-with-a-deadline-in-365-days-zdnet/"><u>Microsoft Faces Major Window of Opportunity for Fixing Windows 11 – With a Deadline in 365 Days (ZDNET)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/personalize-your-desktop-in-windows-11-adjusting-taskbar-colors/"><u>Personalize Your Desktop in Windows 11 - Adjusting Taskbar Colors</u></a></li>
-<li><a href="https://win-bits.techidaily.com/prepare-your-wallet-microsoft-announces-paid-windows-11-update-feature-starting-next-year-what-you-need-to-know/"><u>Prepare Your Wallet: Microsoft Announces Paid Windows 11 Update Feature Starting Next Year – What You Need to Know</u></a></li>
-<li><a href="https://win-bits.techidaily.com/revive-your-aging-pc-with-these-5-free-fixes-times-running-out-in-windows-10-zdnet/"><u>Revive Your Aging PC with These 5 FREE Fixes - Time's Running Out in Windows 10! | ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-a-tale-of-high-quality-mobility-sony-xperia-xz-summary/"><u>[New] A Tale of High-Quality Mobility Sony Xperia XZ Summary</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/omprehensive-youtube-video-editing-with-finalcut-pro-skills-for-2024/"><u>[New] Comprehensive YouTube Video Editing with FinalCut Pro Skills for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>[Updated] 2024 Approved Cutting Through Steps Posting TikTok Videos on Twitter</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-crafting-captivating-cinematic-experiences-in-youtube-videos/"><u>[Updated] Crafting Captivating Cinematic Experiences in YouTube Videos</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-free-and-premium-background-editor-apps-for-smartphones-enhance-your-photos/"><u>Best Free and Premium Background Editor Apps for Smartphones: Enhance Your Photos!</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-lag-free-screen-recording-tools-top-picks-for-flawless-screencasts/"><u>Best Lag-Free Screen Recording Tools: Top Picks for Flawless Screencasts</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-lyrics-videos-tools-and-top-5-royalty-free-song-libraries/"><u>Best Lyrics Videos Tools & Top 5 Royalty-Free Song Libraries</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/cutting-edge-identifying-instagram-leavers-for-2024/"><u>Cutting Edge Identifying Instagram Leavers for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effortless-guide-casting-your-pc-screen-onto-an-android-device/"><u>Effortless Guide: Casting Your PC Screen Onto an Android Device</u></a></li>
+<li><a href="https://win-bits.techidaily.com/exclusive-apowersoft-background-remover-contest-enter-now-for-a-chance-to-win-a-free-trial/"><u>Exclusive Apowersoft Background Remover Contest - Enter Now for a Chance to Win a Free Trial!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/high-quality-webcam-capture-made-easy-review-for-2024/"><u>High-Quality WebCam Capture Made Easy Review for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-digital-videos-into-cartoons-for-2024/"><u>How to Convert Digital Videos Into Cartoons for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-recording-review-and-examination/"><u>In 2024, Recording Review and Examination</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-audio-junction-expert-logic-pro-x-tips/"><u>In 2024, Seamless Audio Junction Expert Logic Pro X Tips</u></a></li>
+<li><a href="https://win-bits.techidaily.com/quick-guide-seamlessly-integrate-srt-subtitles-into-avi-format/"><u>Quick Guide: Seamlessly Integrate SRT Subtitles Into AVI Format</u></a></li>
+<li><a href="https://win-bits.techidaily.com/seamless-file-transfer-guide-connecting-your-pc-with-samsung-galaxy-s10/"><u>Seamless File Transfer Guide: Connecting Your PC with Samsung Galaxy S10</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-on-crafting-perfectly-edited-vertical-videos-for-social-media-success/"><u>Step-by-Step Tutorial on Crafting Perfectly Edited Vertical Videos for Social Media Success</u></a></li>
 </ul></div>
 

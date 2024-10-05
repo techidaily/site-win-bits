@@ -1,7 +1,7 @@
 ---
 title: Securing a Technical Position in Microsoft - Expert Tips From ZDNet
-date: 2024-09-25T07:00:41.147Z
-updated: 2024-09-29T23:44:27.734Z
+date: 2024-10-03T23:17:05.473Z
+updated: 2024-10-05T17:05:47.526Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +136,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +155,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,24 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-deciphering-the-language-of-youtube-live-images/"><u>[New] In 2024, Deciphering the Language of YouTube Live Images</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-automate-your-snapshot-backup-from-snapchat-app/"><u>[Updated] 2024 Approved Automate Your Snapshot Backup From Snapchat App</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-videos-that-vibe-a-novices-roadmap-on-a-mac-and-youtube/"><u>2024 Approved Videos That Vibe A Novice's Roadmap on a Mac and YouTube</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/academic-savings-strategies-unveiling-the-secrets-to-accessing-tidals-student-discount-programs/"><u>Academic Savings Strategies: Unveiling the Secrets to Accessing Tidal's Student Discount Programs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-apple-iphone-12-pro-max-how-to-unlock-a-disabled-apple-iphone-12-pro-max-by-drfone-ios/"><u>Disabled Apple iPhone 12 Pro Max How to Unlock a Disabled Apple iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005032090-eliminate-game-disruptions-a-definitive-guide-to-fixing-persistent-fifa-20-pc-crashes-learn-the-essential-techniques/"><u>Eliminate Game Disruptions: A Definitive Guide to Fixing Persistent FIFA 20 PC Crashes - Learn the Essential Techniques!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/harmonizing-fading-techniques-in-live/"><u>Harmonizing Fading Techniques in Live</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Huawei Nova Y71 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-to-bypass-edgenuity-videos-with-minimal-hassle/"><u>In 2024, Strategies to Bypass Edgenuity Videos with Minimal Hassle</u></a></li>
-<li><a href="https://win-bits.techidaily.com/online-free-video-transcoder-suite-effortless-format-changes/"><u>Online Free Video Transcoder Suite: Effortless Format Changes</u></a></li>
-<li><a href="https://win-bits.techidaily.com/pigoo/"><u>Pigooオンデマンドに対する録画とセーブ手順指南</u></a></li>
-<li><a href="https://win-bits.techidaily.com/playing-flac-audio-tracks-on-your-ipod-a-comprehensive-walkthrough-for-each-model/"><u>Playing FLAC Audio Tracks on Your iPod: A Comprehensive Walkthrough for Each Model</u></a></li>
-<li><a href="https://win-bits.techidaily.com/seamless-mp4-format-conversion-for-any-player-or-tv-high-quality-video-experience-guaranteed/"><u>Seamless MP4 Format Conversion for Any Player or TV - High-Quality Video Experience Guaranteed</u></a></li>
-<li><a href="https://win-bits.techidaily.com/simple-steps-to-insert-a-logo-into-your-videos-using-pc-tools-and-online-apps/"><u>Simple Steps to Insert a Logo Into Your Videos Using PC Tools and Online Apps</u></a></li>
-<li><a href="https://win-bits.techidaily.com/simple-tricks-for-free-downloading-jet-lis-movie-collection/"><u>Simple Tricks for FREE Downloading Jet Li's Movie Collection</u></a></li>
-<li><a href="https://win-bits.techidaily.com/spotifymp3/"><u>SpotifyからMP3に: 専用フリープログラムで簡単な音楽変換</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-to-transforming-pro-tools-sdii-and-sound-designer-ii-recordings-into-wav-audio/"><u>Step-by-Step Guide to Transforming Pro Tools' SDII and Sound Designer II Recordings Into WAV Audio</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-how-to-stream-mkv-videos-on-sony-playstation-3-console/"><u>Step-by-Step Tutorial: How to Stream MKV Videos on Sony PlayStation 3 Console</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/trasforma-i-tuoi-filmati-mov-in-formato-m4v-per-free-con-zamzar-video-converter/"><u>Trasforma I Tuoi Filmati MOV in Formato M4V per Free Con Zamzar Video Converter</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-start-with-screencastify-video-recording/"><u>[New] 2024 Approved Quick Start with Screencastify Video Recording</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-trailer-highlight-assortment/"><u>[New] Iconic Trailer Highlight Assortment</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ransforming-viewers-to-advocates-the-essential-top-5-youtube-strategies/"><u>[New] Transforming Viewers to Advocates The Essential #Top 5 YouTube Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-hidden-truths-about-youtube-earnings/"><u>[Updated] The Hidden Truths About YouTube Earnings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>2024 Approved The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
+<li><a href="https://win-bits.techidaily.com/avimpegandavi-vs-mpeg/"><u>劣化なしでAVIをMPEGに変換する技術&AVI Vs. MPEGの特徴</u></a></li>
+<li><a href="https://win-bits.techidaily.com/beginners-manual-effortlessly-transform-your-dvds-into-mp4-with-the-help-of-vidcoder/"><u>Beginner's Manual: Effortlessly Transform Your DVDs Into MP4 with the Help of VidCoder</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-free-websites-for-downloading-tv-show-captions/"><u>Best Free Websites for Downloading TV Show Captions</u></a></li>
+<li><a href="https://win-bits.techidaily.com/comparing-the-two-versions-what-sets-psp-video-converter-factory-apart-from-its-professional-counterpart-psp-video-converter-factory-pro/"><u>Comparing the Two Versions: What Sets PSP Video Converter Factory Apart From Its Professional Counterpart, PSP Video Converter Factory Pro?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/comprehensive-evaluation-best-screen-recording-apps-on-iphone-6/"><u>Comprehensive Evaluation: Best Screen Recording Apps on iPhone 6</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cutting-edge-computing-a-comparative-review-of-the-arm-powered-apple-mac-mini-against-competitors/"><u>Cutting-Edge Computing: A Comparative Review of the ARM-Powered Apple Mac Mini Against Competitors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-nova-y71-without-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Nova Y71 Without Password?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/leading-software-for-professional-video-transformations-and-special-effects/"><u>Leading Software for Professional Video Transformations and Special Effects</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1726030114919-mp3windows-11/"><u>MP3ファイルを改良するためのWindows 11ガイド:編集から調整まで</u></a></li>
+<li><a href="https://win-bits.techidaily.com/the-best-selection-of-2022-enhancing-your-cv-with-stunning-smartphone-images/"><u>The Best Selection of 2022: Enhancing Your CV with Stunning Smartphone Images</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-innovators-playbook-recording-shows-in-the-cloud-for-2024/"><u>The Innovator’s Playbook Recording Shows in the Cloud for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-to-flawlessly-capturing-your-pc-screenshots-on-windows-7810/"><u>Ultimate Guide to Flawlessly Capturing Your PC Screenshots on Windows 7/8/10</u></a></li>
+<li><a href="https://some-skills.techidaily.com/understanding-film-a-beginners-guide-to-essential-shots-for-2024/"><u>Understanding Film A Beginner's Guide to Essential Shots for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-support-detecting-and-connecting-to-bluetooth-devices/"><u>Windows 10 Support: Detecting and Connecting to Bluetooth Devices</u></a></li>
 </ul></div>
 

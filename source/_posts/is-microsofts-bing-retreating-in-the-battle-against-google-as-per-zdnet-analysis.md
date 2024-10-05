@@ -1,7 +1,7 @@
 ---
 title: Is Microsoft's Bing Retreating in the Battle Against Google, as Per ZDNet Analysis?
-date: 2024-09-25T06:35:02.154Z
-updated: 2024-09-30T03:22:22.593Z
+date: 2024-10-04T17:53:52.021Z
+updated: 2024-10-05T18:39:49.117Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-explore-the-top-15-youtube-binge-spots-for-anime-lovers/"><u>[New] 2024 Approved Explore the Top 15 YouTube Binge Spots for Anime Lovers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-leveraging-length-and-style-in-your-instagram-videos/"><u>[New] In 2024, Leveraging Length and Style in Your Instagram Videos</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professional-perspective-a-complete-guide-on-sj-cam-s6/"><u>[New] Professional Perspective A Complete Guide on SJ-CAM S6</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-keeping-the-laughs-iosandroid-methods-for-tweets-as-gifs-for-2024/"><u>[Updated] Keeping the Laughs IOS/Android Methods for Tweets as GIFs for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1-download-high-quality-hip-hop-music-videos-in-multiple-formats-mp4-avi-mov-wmv-and-mkv/"><u>1. Download High-Quality Hip Hop Music Videos in Multiple Formats: MP4, AVI, MOV, WMV & MKV</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypass-common-issues-top-6-strategies-for-a-smooth-street-fighter-6-experience-on-pc/"><u>Bypass Common Issues: Top 6 Strategies for a Smooth Street Fighter 6 Experience on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-choose-a-low-size-high-definition-video-file-format-efficiently/"><u>How to Choose a Low-Size, High-Definition Video File Format Efficiently?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-sound-sculpture-shaping-your-youtube-audio-experience/"><u>In 2024, Sound Sculpture Shaping Your YouTube Audio Experience</u></a></li>
-<li><a href="https://win-bits.techidaily.com/learn-from-home-access-top-quality-painting-tutorials-on-paintbasket-for-free/"><u>Learn From Home: Access Top-Quality Painting Tutorials on PaintBasket for FREE!</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-converting-and-downloading-abelbodygym-fitness-content-in-multiple-formats/"><u>Step-by-Step Guide: Converting and Downloading AbelBodyGym Fitness Content in Multiple Formats</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-converting-your-favorite-yogaglo-sessions-into-common-video-formats-like-mp4-mov-or-avi/"><u>Step-by-Step Guide: Converting Your Favorite YogaGlo Sessions Into Common Video Formats Like MP4, MOV, or AVI</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-transforming-moviefone-streams-into-mp4avi-files-on-both-windows-and-macos/"><u>Step-by-Step Guide: Transforming Moviefone Streams Into MP4/AVI Files on Both Windows and macOS</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-instructions-for-downloading-vvvvid-content-to-your-desktop-system/"><u>Step-by-Step Instructions for Downloading VVVVID Content to Your Desktop System</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-rated-cross-platform-video-downloader-allavsoft-your-ultimate-solution-for-macos-and-windows/"><u>Top Rated Cross-Platform Video Downloader: Allavsoft – Your Ultimate Solution for macOS & Windows</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/tutorial-how-to-save-okru-video-content-as-mp4-or-mov-files-for-pc-and-mac-users/"><u>Tutorial: How to Save Ok.ru Video Content as MP4 or Mov Files for PC and Mac Users</u></a></li>
-<li><a href="https://win-bits.techidaily.com/ultimate-tubidy-tool-quick-and-easy-music-video-and-movie-downloads-from-tubidy/"><u>Ultimate Tubidy Tool: Quick & Easy Music, Video & Movie Downloads From Tubidy</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlock-fb-story-potential-4-effective-techniques/"><u>Unlock FB Story Potential - 4 Effective Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-your-game-time-with-youtube-live-broadcasts/"><u>[New] 2024 Approved Enhancing Your Game Time with YouTube Live Broadcasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streamlining-video-quality-on-youtube-top-formats-revealed/"><u>[New] 2024 Approved Streamlining Video Quality on YouTube – Top Formats Revealed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-comparative-study-on-vlc-video-capture/"><u>[New] In 2024, Comparative Study on VLC Video Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-top-5-techniques-for-capturing-live-sound-over-the-web/"><u>[Updated] Top 5 Techniques for Capturing Live Sound Over the Web</u></a></li>
+<li><a href="https://program-issues.techidaily.com/borderlands-3-crash-woes-easily-fix-them-with-these-tips/"><u>Borderlands 3 Crash Woes? Easily Fix Them with These Tips!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovating-visual-identity-with-ae-titles/"><u>Innovating Visual Identity with AE Titles</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-converting-pdf-files-to-word-documents-on-macos-mojave/"><u>Step-by-Step Guide: Converting PDF Files to Word Documents on macOS Mojave</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-art-of-publicizing-vimeo-videos-for-2024/"><u>The Art of Publicizing Vimeo Videos for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-10-powerful-utilities-for-extracting-subjects-from-jpeg-images/"><u>Top 10 Powerful Utilities for Extracting Subjects From JPEG Images</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-mastering-the-art-of-creating-top-ranking-gaming-content-with-expert-video-production-and-editing-tips/"><u>Ultimate Guide: Mastering the Art of Creating Top-Ranking Gaming Content with Expert Video Production & Editing Tips</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-syncing-your-entire-computer-screen-with-your-iphone/"><u>Ultimate Guide: Syncing Your Entire Computer Screen with Your iPhone</u></a></li>
 </ul></div>
 

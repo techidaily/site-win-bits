@@ -1,7 +1,7 @@
 ---
 title: Will Microsoft Begin Fees for Windows 10 Update Downloads in the Following Year? Find Out Projected Prices - ZDNet
-date: 2024-10-03T18:14:29.172Z
-updated: 2024-10-05T20:29:03.643Z
+date: 2024-10-08T22:17:09.925Z
+updated: 2024-10-10T21:18:03.392Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,14 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-dynamic-shots-infusing-energy-into-your-youtube-videos/"><u>[New] 2024 Approved Dynamic Shots Infusing Energy Into Your YouTube Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-a-guide-to-gathering-creative-themes-using-google-trends/"><u>[New] In 2024, A Guide to Gathering Creative Themes Using Google Trends</u></a></li>
-<li><a href="https://win-bits.techidaily.com/effective-strategies-for-minimizing-your-digital-video-footage/"><u>Effective Strategies for Minimizing Your Digital Video Footage</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-logitech-g29-driver-update-on-windows-compatible-with-win10win11win7/"><u>Get Your Logitech G29 Driver Update on Windows - Compatible with Win10/Win11/Win7</u></a></li>
-<li><a href="https://win-bits.techidaily.com/mac-users-guide-mastering-the-gameplay-techniques-in-call-of-duty-mobile/"><u>Mac Users Guide: Mastering the Gameplay Techniques in Call of Duty Mobile</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722977860826-optimize-your-amd-ryzen-5-2500u-seamless-guide-to-the-newest-drivers/"><u>Optimize Your AMD Ryzen 5 2500U - Seamless Guide to the Newest Drivers</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-razer-mouse-driver-install-guide/"><u>Quick Razer Mouse Driver Install Guide</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-tips-for-capturing-screen-shots-efficiently-on-your-pc/"><u>Top Tips for Capturing Screen Shots Efficiently on Your PC</u></a></li>
-<li><a href="https://win-bits.techidaily.com/zero-cost-methods-for-combining-pdf-documents-on-the-internet/"><u>Zero Cost Methods for Combining PDF Documents on the Internet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>[New] 2024 Approved Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-mc-edifices-a-starter-collection-of-domiciles/"><u>[New] In 2024, Essential MC Edifices A Starter Collection of Domiciles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tag-and-post-a-moment-of-pure-sound-wisdom/"><u>[Updated] Tag & Post a Moment of Pure Sound Wisdom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/30-best-kept-secrets-to-livestream-conferences-at-no-charge-for-2024/"><u>30 Best-Kept Secrets to Livestream Conferences at No Charge for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-lag-free-screen-recording-tools-top-picks-for-flawless-screencasts/"><u>Best Lag-Free Screen Recording Tools: Top Picks for Flawless Screencasts</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effortless-guide-casting-your-pc-screen-onto-an-android-device/"><u>Effortless Guide: Casting Your PC Screen Onto an Android Device</u></a></li>
+<li><a href="https://win-bits.techidaily.com/exclusive-apowersoft-background-remover-contest-enter-now-for-a-chance-to-win-a-free-trial/"><u>Exclusive Apowersoft Background Remover Contest - Enter Now for a Chance to Win a Free Trial!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-source-material-how-does-chatgpt-avoid-plagiarism/"><u>Exploring Source Material: How Does ChatGPT Avoid Plagiarism?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-red-magic-8s-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Red Magic 8S Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-challenges-restoring-functionality-to-a-broken-iphone-tethering-feature/"><u>Overcoming Challenges: Restoring Functionality to a Broken iPhone Tethering Feature</u></a></li>
+<li><a href="https://win-bits.techidaily.com/seamless-file-transfer-guide-connecting-your-pc-with-samsung-galaxy-s10/"><u>Seamless File Transfer Guide: Connecting Your PC with Samsung Galaxy S10</u></a></li>
 </ul></div>
 

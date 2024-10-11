@@ -1,7 +1,7 @@
 ---
 title: "Exploring Microsoft's Latest Creation: The New Surface Laptop 5 - A Review by ZDNet"
-date: 2024-09-29T17:00:51.354Z
-updated: 2024-10-05T23:19:09.435Z
+date: 2024-10-05T03:20:45.881Z
+updated: 2024-10-11T06:41:29.832Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -129,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +202,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-seamless-transitions-elevating-your-drone-footage/"><u>[New] Seamless Transitions Elevating Your Drone Footage</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-quick-reference-for-mac-writers-obsplusstreamlabs/"><u>[Updated] The Ultimate Quick Reference for Mac' Writers OBS+Streamlabs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/4-essential-methods-for-file-delivery-to-pc/"><u>4 Essential Methods for File Delivery to PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/a-comprehensive-guide-to-repair-a-broken-integrated-webcam-in-windows-os/"><u>A Comprehensive Guide to Repair a Broken Integrated Webcam in Windows OS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/acrylic-sealant-optional-for-added-durability/"><u>Acrylic Sealant (Optional for Added Durability)</u></a></li>
-<li><a href="https://win-bits.techidaily.com/effective-strategies-for-minimizing-your-digital-video-footage/"><u>Effective Strategies for Minimizing Your Digital Video Footage</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/ergodyne-topo-mat-evaluation-revolutionize-your-standing-experience/"><u>Ergodyne Topo Mat Evaluation: Revolutionize Your Standing Experience</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>In 2024, From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
-<li><a href="https://win-bits.techidaily.com/mac-users-guide-mastering-the-gameplay-techniques-in-call-of-duty-mobile/"><u>Mac Users Guide: Mastering the Gameplay Techniques in Call of Duty Mobile</u></a></li>
-<li><a href="https://win-bits.techidaily.com/mastering-raid-shadow-legends-a-step-by-step-guide-for-pc-gamers/"><u>Mastering Raid Shadow Legends: A Step-by-Step Guide for PC Gamers</u></a></li>
-<li><a href="https://win-bits.techidaily.com/mastering-video-capture-a-comprehensive-guide-to-recording-with-obs-and-other-top-tools/"><u>Mastering Video Capture: A Comprehensive Guide to Recording with OBS & Other Top Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/reset-the-scene-fixing-your-facebook/"><u>Reset the Scene Fixing Your Facebook</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-100-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor 100</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-guide-sharing-your-content-on-instagram-via-pc-or-mac/"><u>Step-by-Step Guide: Sharing Your Content on Instagram via PC or Mac</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-tips-for-capturing-screen-shots-efficiently-on-your-pc/"><u>Top Tips for Capturing Screen Shots Efficiently on Your PC</u></a></li>
-<li><a href="https://win-bits.techidaily.com/ultimate-vlogging-editor-tools-the-aplus-picks-for-online-content-makers/"><u>Ultimate Vlogging Editor Tools: The A+ Picks for Online Content Makers</u></a></li>
-<li><a href="https://win-bits.techidaily.com/why-cant-apowersoft-phone-manager-read-your-contacts-and-messages-in-call-history-on-android-a-comprehensive-guide/"><u>Why Can't Apowersoft Phone Manager Read Your Contacts and Messages in Call History on Android? A Comprehensive Guide</u></a></li>
-<li><a href="https://win-bits.techidaily.com/zero-cost-methods-for-combining-pdf-documents-on-the-internet/"><u>Zero Cost Methods for Combining PDF Documents on the Internet</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-listenguide-review/"><u>[New] In 2024, ListenGuide Review</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-transform-your-discord-experience-learn-message-pinning/"><u>[New] In 2024, Transform Your Discord Experience Learn Message Pinning</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/boost-your-windows-11-laptop-lifespan-essential-9-configuration-adjustments-to-optimize-battery-use/"><u>Boost Your Windows 11 Laptop Lifespan: Essential 9 Configuration Adjustments to Optimize Battery Use</u></a></li>
+<li><a href="https://win-bits.techidaily.com/boosting-teamwork-and-efficiency-in-an-outdated-office-a-comprehensive-guide-to-modernization-strategies-zdnet/"><u>Boosting Teamwork & Efficiency in an Outdated Office: A Comprehensive Guide to Modernization Strategies | ZDNET</u></a></li>
+<li><a href="https://win-bits.techidaily.com/detailed-review-of-jabra-evolve2-75-audio-gear-ideal-anc-solution-and-24-hour-talk-time-for-remote-and-mixed-work-environments-analysis-by-zdnet/"><u>Detailed Review of Jabra Evolve2 75 Audio Gear: Ideal ANC Solution & 24-Hour Talk Time for Remote and Mixed Work Environments | Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/determining-the-ideal-speed-for-your-personal-computer-a-comprehensive-guide/"><u>Determining the Ideal Speed for Your Personal Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/enhance-your-pc-with-windows-pro-a-guide-for-home-edition-users-zdnet/"><u>Enhance Your PC with Windows Pro: A Guide for Home Edition Users - ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/impact-of-googles-antitrust-legal-defeat-implications-for-users-and-the-evolving-landscape-of-online-search-techinsights/"><u>Impact of Google's Antitrust Legal Defeat: Implications for Users & The Evolving Landscape of Online Search | TechInsights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-pioneering-virtual-play-samsungs-most-popular-titles/"><u>In 2024, Pioneering Virtual Play Samsung's Most Popular Titles</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ios-devices-with-dfu-mode-tips-and-techniques/"><u>Mastering iOS Devices with DFU Mode: Tips & Techniques</u></a></li>
+<li><a href="https://win-bits.techidaily.com/secure-your-digital-presence-using-multi-factor-authentication-activation-tips-and-tricks-insights-from-zdnet/"><u>Secure Your Digital Presence Using Multi-Factor Authentication: Activation Tips & Tricks - Insights From ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/story-3-believing-that-the-technology-would-have-no-significant-impact-on-business-operations-wrong-answer/"><u>Story 3: Believing that the Technology Would Have No Significant Impact on Business Operations (Wrong Answer)</u></a></li>
 </ul></div>
 

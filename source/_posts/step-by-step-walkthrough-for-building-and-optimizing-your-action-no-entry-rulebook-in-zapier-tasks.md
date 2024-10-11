@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Walkthrough for Building & Optimizing Your Action! No Entry Rulebook in Zapier Tasks
-date: 2024-10-03T22:02:09.363Z
-updated: 2024-10-05T16:45:12.490Z
+date: 2024-10-05T23:52:37.614Z
+updated: 2024-10-10T23:25:54.001Z
 tags:
   - product
 categories:
@@ -52,6 +52,19 @@ Action Tutorials
 
  Please remember that when selected application or process is added to exclude list it is not possible to record it with "Games and applications" mode and the HUD is not displayed for excluded applications.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Open Action! installation folder 
 
  Open Mirillis Action! installation folder. Default installation folder is:
@@ -72,10 +85,16 @@ Action Tutorials
 ![Mirillis Action! - exclude file](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_default_installation_folder_exclude_file.jpg "Action! exclude file") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Check process / application name 
@@ -85,10 +104,10 @@ Action Tutorials
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_exclude_task_manager.jpg "Select activate tab") 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Add process to exclude list 
@@ -97,34 +116,15 @@ Action Tutorials
 
 ![Mirillis Action! - Activation window](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_edit_exclude_list.jpg "Activation window with all fields filled in") 
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To exclude more processes enter every process name in a new line. 
 
 ![Mirillis Action! - Activation window](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_edit_exclude_list2.jpg "Activation window with all fields filled in") 
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Please remember to close Action! before editing **exclude.txt** file. 
@@ -147,22 +147,20 @@ Share this tutorial
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-from-drama-to-film-shaping-realistic-dialogue/"><u>[New] In 2024, From Drama to Film Shaping Realistic Dialogue</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-navigating-fb-lives-dual-screen-dynamics-essential-insights/"><u>[New] In 2024, Navigating FB Live's Dual-Screen Dynamics Essential Insights</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigate-the-digital-realm-uploading-to-instagram-tv/"><u>[Updated] In 2024, Navigate the Digital Realm Uploading to Instagram TV</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1-video-transfer-mastery-with-myspass-downloader-seamless-conversion-from-myspass-to-popular-video-formats/"><u>1. 'Video Transfer Mastery with Myspass Downloader: Seamless Conversion From Myspass to Popular Video Formats'</u></a></li>
-<li><a href="https://win-bits.techidaily.com/1-easymp4-converter-transfer-your-favorite-dramafire-content-into-high-quality-video-format/"><u>1. EasyMP4 Converter: Transfer Your Favorite DramaFire Content Into High-Quality Video Format</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-simple-guide-youtube-to-mp3-on-mac/"><u>2024 Approved Simple Guide YouTube to MP3 on Mac</u></a></li>
-<li><a href="https://win-bits.techidaily.com/allavsoft-the-ultimate-spotify-to-mp3-converter-for-mac-and-windows-pcs/"><u>Allavsoft: The Ultimate Spotify-to-MP3 Converter for Mac & Windows PCs</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/harmonic-hurdle-jumpstarts-best-tunes-to-initiate-audio-starts/"><u>Harmonic Hurdle Jumpstarts Best Tunes to Initiate Audio Starts</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-modify-your-flipbook-page-titles-and-font-styles-on-windows-using-flipbuilder/"><u>How to Modify Your FlipBook Page Titles & Font Styles on Windows Using FlipBuilder</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-to-rotate-a-pdf-document-from-landscape-to-portrait-easy-flipbook-guide/"><u>How to Rotate a PDF Document From Landscape to Portrait - Easy FlipBook Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-how-to-use-vlc-for-professional-screen-recording/"><u>In 2024, How to Use VLC for Professional Screen Recording</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-peering-into-the-pinnacle-of-4k-monitoring-with-lgs-ultrafine-display/"><u>In 2024, Peering Into the Pinnacle of 4K Monitoring with LG’s UltraFine Display</u></a></li>
-<li><a href="https://win-bits.techidaily.com/left-to-right-magnetic-appeal-redefine-reading-order-with-easymagazine-designer/"><u>Left-to-Right Magnetic Appeal: Redefine Reading Order with EasyMagazine Designer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/por-que-choose-movavi-uma-exploracao-na-vantagem-da-inovacao-em-software-multimedia/"><u>Por Que Choose Movavi? Uma Exploração Na Vantagem Da Inovação Em Software Multimedia</u></a></li>
-<li><a href="https://win-bits.techidaily.com/sharing-your-unique-flipbooks-with-friends-a-guide-for-facebook-integration-through-flipbuilder/"><u>Sharing Your Unique Flipbooks with Friends: A Guide for Facebook Integration Through FlipBuilder</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-mastering-pokemon-go-strategies/"><u>Ultimate Guide: Mastering 'Pokémon Go' Strategies</u></a></li>
-<li><a href="https://win-bits.techidaily.com/understanding-folders-files-and-page-organization-on-flipbuildercom/"><u>Understanding Folders, Files & Page Organization on FlipBuilder.com</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-creativity-premier-tablet-apps-for-ipados/"><u>[New] Revolutionizing Creativity Premier Tablet Apps for iPadOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-androids-video-recording-techniques-explored/"><u>[Updated] Android's Video Recording Techniques Explored</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-the-world-of-social-media-with-a-focused-brand/"><u>[Updated] Navigating the World of Social Media with a Focused Brand</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-art-of-dialogue-in-writing-scripts/"><u>2024 Approved The Art of Dialogue in Writing Scripts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-14-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 14 iCloud Activation Lock</u></a></li>
+<li><a href="https://win-bits.techidaily.com/boost-productivity-on-windows-mastering-the-art-of-free-fancyzones-tool-from-microsoft-expert-insights/"><u>Boost Productivity on Windows: Mastering the Art of Free FancyZones Tool From Microsoft | Expert Insights</u></a></li>
+<li><a href="https://win-bits.techidaily.com/complete-windows-11-user-manual-expert-advice-for-a-smooth-upgrade-with-insights-from-zdnet/"><u>Complete Windows 11 User Manual: Expert Advice for a Smooth Upgrade with Insights From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/debunking-top-misconceptions-how-windows-users-mistake-macos-insights-from-zdnet/"><u>Debunking Top Misconceptions: How Windows Users Mistake MacOS, Insights From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ensure-continuous-access-to-windows-11-updates-in-the-coming-year-the-expected-price-explained-technewszdnet/"><u>Ensure Continuous Access to Windows 11 Updates in the Coming Year - The Expected Price Explained | TechNewsZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-steam-error-content-servers-not-reachable-in-windows/"><u>Fixing Steam Error: Content Servers Not Reachable in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/master-the-art-of-co-op-winning-at-two-player-minecraft-on-switch/"><u>Master the Art of Co-Op: Winning at Two-Player Minecraft on Switch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/masterclass-in-high-end-smartphones-an-in-depth-analysis-of-the-impeccable-samsung-galaxy-s10/"><u>Masterclass in High-End Smartphones: An In-Depth Analysis of the Impeccable Samsung Galaxy S10</u></a></li>
+<li><a href="https://win-bits.techidaily.com/microsoft-confirms-engineers-adore-the-innovative-features-of-windows-11-insights-from-zdnet/"><u>Microsoft Confirms: Engineers Adore the Innovative Features of Windows 11 - Insights From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/microsoft-faces-major-window-of-opportunity-for-fixing-windows-11-with-a-deadline-in-365-days-zdnet/"><u>Microsoft Faces Major Window of Opportunity for Fixing Windows 11 – With a Deadline in 365 Days (ZDNET)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tap-into-the-future-of-ai-unlimited-gpt-4-use-with-these-five-free-options/"><u>Tap Into the Future of AI: Unlimited GPT-4 Use with These Five Free Options</u></a></li>
 </ul></div>
 

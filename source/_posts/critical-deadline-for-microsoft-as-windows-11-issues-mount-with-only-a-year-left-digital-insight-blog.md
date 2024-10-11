@@ -1,7 +1,7 @@
 ---
 title: Critical Deadline for Microsoft as Windows 11 Issues Mount with Only a Year Left | Digital Insight Blog
-date: 2024-10-04T17:49:19.729Z
-updated: 2024-10-05T20:37:11.011Z
+date: 2024-10-07T09:34:23.498Z
+updated: 2024-10-10T18:32:10.146Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +148,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +208,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unveil-secrets-to-speedy-caption-design-in-facebook-media/"><u>[Updated] 2024 Approved Unveil Secrets to Speedy Caption Design in Facebook Media</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastery-of-safaris-picture-in-picture-for-ios-and-macos/"><u>[Updated] Mastery of Safari's Picture-in-Picture for iOS & macOS</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-twitter-video-converters-guide/"><u>2024 Approved Premier Twitter Video Converters Guide</u></a></li>
-<li><a href="https://win-bits.techidaily.com/best-free-and-premium-background-editor-apps-for-smartphones-enhance-your-photos/"><u>Best Free and Premium Background Editor Apps for Smartphones: Enhance Your Photos!</u></a></li>
-<li><a href="https://win-bits.techidaily.com/best-lyrics-videos-tools-and-top-5-royalty-free-song-libraries/"><u>Best Lyrics Videos Tools & Top 5 Royalty-Free Song Libraries</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-itel-p55t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Itel P55T Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-xltm-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .xltm document online</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/leading-software-for-professional-video-transformations-and-special-effects/"><u>Leading Software for Professional Video Transformations and Special Effects</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-on-crafting-perfectly-edited-vertical-videos-for-social-media-success/"><u>Step-by-Step Tutorial on Crafting Perfectly Edited Vertical Videos for Social Media Success</u></a></li>
-<li><a href="https://win-bits.techidaily.com/the-best-selection-of-2022-enhancing-your-cv-with-stunning-smartphone-images/"><u>The Best Selection of 2022: Enhancing Your CV with Stunning Smartphone Images</u></a></li>
-<li><a href="https://win-bits.techidaily.com/ultimate-guide-to-flawlessly-capturing-your-pc-screenshots-on-windows-7810/"><u>Ultimate Guide to Flawlessly Capturing Your PC Screenshots on Windows 7/8/10</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-secrets-how-to-use-friendly-feedback-tools/"><u>Unlocking Secrets: How to Use Friendly Feedback Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-premium-minecraft-channel-graphics/"><u>[New] 2024 Approved Get Premium Minecraft Channel Graphics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-unleashing-potential-a-moto-z2-deep-dive/"><u>[New] 2024 Approved Unleashing Potential A Moto Z2 Deep Dive</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-precision-in-production-5-advanced-methods-for-trimming-on-vimeo-platform-for-2024/"><u>[New] Precision in Production 5 Advanced Methods for Trimming on Vimeo Platform for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-download-high-quality-hip-hop-music-videos-in-multiple-formats-mp4-avi-mov-wmv-and-mkv/"><u>1. Download High-Quality Hip Hop Music Videos in Multiple Formats: MP4, AVI, MOV, WMV & MKV</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/10-with-a-twist/"><u>10 with a Twist!</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-free-streaming-services-for-music-videos-find-and-watch-your-favorite-tunes-online-and-off/"><u>Best Free Streaming Services for Music Videos: Find & Watch Your Favorite Tunes Online and Off</u></a></li>
+<li><a href="https://blog-min.techidaily.com/convert-your-textbooks-to-pdf-format-with-vitalsource-seamless-digital-solutions/"><u>Convert Your Textbooks to PDF Format with Vitalsource: Seamless Digital Solutions</u></a></li>
+<li><a href="https://win-bits.techidaily.com/download-and-convert-tutv-content-to-video-files-mp4-avi-on-pc-or-mac-using-tutv-software/"><u>Download & Convert tu.tv Content to Video Files (MP4, AVI) on PC or Mac Using Tutv Software</u></a></li>
+<li><a href="https://win-bits.techidaily.com/download-kisscartoon-content-securely-enjoy-top-anime-series-anytime-anywhere/"><u>Download KissCartoon Content Securely: Enjoy Top Anime Series Anytime, Anywhere</u></a></li>
+<li><a href="https://win-bits.techidaily.com/easy-video-retrieval-with-putlocker-the-ultimate-guide-for-mac-and-windows-users/"><u>Easy Video Retrieval with PutLocker: The Ultimate Guide for Mac & Windows Users</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effortless-redtube-video-downloading-compatible-with-macos-and-windows/"><u>Effortless RedTube Video Downloading: Compatible with macOS & Windows</u></a></li>
+<li><a href="https://win-bits.techidaily.com/enjoy-youtube-without-interruptions-secrets-to-accessing-premier-content-free-of-charge/"><u>Enjoy YouTube Without Interruptions: Secrets to Accessing Premier Content Free of Charge</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experiencing-the-combination-of-style-and-functionality-with-the-flexispot-theodore-standing-desk/"><u>Experiencing the Combination of Style & Functionality with the Flexispot Theodore Standing Desk</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-to-download-music-and-movies-from-godtube-in-high-quality-mp3-and-mp4-format-compatible-with-pcs-and-macs/"><u>How to Download Music & Movies From Godtube in High Quality - MP3 & MP4 Format Compatible with PCs and Macs</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-explore-the-depths-of-video-clarity-comprehensive-guide-to-vce-22/"><u>In 2024, Explore the Depths of Video Clarity - Comprehensive Guide to VCE 2.2</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/melodic-milestinas-where-to-find-elegant-mobile-alerts/"><u>Melodic Milestinas Where to Find Elegant Mobile Alerts</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mka-mkv-converter-vrije-online-tool-voor-formatconversie-movavi/"><u>MKA-MKV Converter: Vrije Online Tool Voor Formatconversie - Movavi</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/prime-choices-webcams-on-windows-10-for-2024/"><u>Prime Choices Webcams on Windows 10 for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-tubidy-tool-quick-and-easy-music-video-and-movie-downloads-from-tubidy/"><u>Ultimate Tubidy Tool: Quick & Easy Music, Video & Movie Downloads From Tubidy</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Digital Presence Using Multi-Factor Authentication: Activation Tips & Tricks - Insights From ZDNet"
-date: 2024-09-30T18:31:08.176Z
-updated: 2024-10-05T17:02:10.476Z
+date: 2024-10-07T10:05:22.479Z
+updated: 2024-10-11T00:16:45.823Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,19 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,22 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-tale-of-high-quality-mobility-sony-xperia-xz-summary/"><u>[New] A Tale of High-Quality Mobility Sony Xperia XZ Summary</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/omprehensive-youtube-video-editing-with-finalcut-pro-skills-for-2024/"><u>[New] Comprehensive YouTube Video Editing with FinalCut Pro Skills for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-cutting-through-steps-posting-tiktok-videos-on-twitter/"><u>[Updated] 2024 Approved Cutting Through Steps Posting TikTok Videos on Twitter</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-crafting-captivating-cinematic-experiences-in-youtube-videos/"><u>[Updated] Crafting Captivating Cinematic Experiences in YouTube Videos</u></a></li>
-<li><a href="https://win-bits.techidaily.com/best-free-and-premium-background-editor-apps-for-smartphones-enhance-your-photos/"><u>Best Free and Premium Background Editor Apps for Smartphones: Enhance Your Photos!</u></a></li>
-<li><a href="https://win-bits.techidaily.com/best-lag-free-screen-recording-tools-top-picks-for-flawless-screencasts/"><u>Best Lag-Free Screen Recording Tools: Top Picks for Flawless Screencasts</u></a></li>
-<li><a href="https://win-bits.techidaily.com/best-lyrics-videos-tools-and-top-5-royalty-free-song-libraries/"><u>Best Lyrics Videos Tools & Top 5 Royalty-Free Song Libraries</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/cutting-edge-identifying-instagram-leavers-for-2024/"><u>Cutting Edge Identifying Instagram Leavers for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/effortless-guide-casting-your-pc-screen-onto-an-android-device/"><u>Effortless Guide: Casting Your PC Screen Onto an Android Device</u></a></li>
-<li><a href="https://win-bits.techidaily.com/exclusive-apowersoft-background-remover-contest-enter-now-for-a-chance-to-win-a-free-trial/"><u>Exclusive Apowersoft Background Remover Contest - Enter Now for a Chance to Win a Free Trial!</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/high-quality-webcam-capture-made-easy-review-for-2024/"><u>High-Quality WebCam Capture Made Easy Review for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/how-to-convert-digital-videos-into-cartoons-for-2024/"><u>How to Convert Digital Videos Into Cartoons for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-recording-review-and-examination/"><u>In 2024, Recording Review and Examination</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-audio-junction-expert-logic-pro-x-tips/"><u>In 2024, Seamless Audio Junction Expert Logic Pro X Tips</u></a></li>
-<li><a href="https://win-bits.techidaily.com/quick-guide-seamlessly-integrate-srt-subtitles-into-avi-format/"><u>Quick Guide: Seamlessly Integrate SRT Subtitles Into AVI Format</u></a></li>
-<li><a href="https://win-bits.techidaily.com/seamless-file-transfer-guide-connecting-your-pc-with-samsung-galaxy-s10/"><u>Seamless File Transfer Guide: Connecting Your PC with Samsung Galaxy S10</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-on-crafting-perfectly-edited-vertical-videos-for-social-media-success/"><u>Step-by-Step Tutorial on Crafting Perfectly Edited Vertical Videos for Social Media Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-innovative-approaches-to-capturing-moments-with-zooms-snaps-for-2024/"><u>[New] Innovative Approaches to Capturing Moments with Zoom's Snaps for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-exposure-boost-for-your-social-media-visuals/"><u>[Updated] In 2024, Exposure Boost for Your Social Media Visuals</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-download-high-quality-hip-hop-music-videos-in-multiple-formats-mp4-avi-mov-wmv-and-mkv/"><u>1. Download High-Quality Hip Hop Music Videos in Multiple Formats: MP4, AVI, MOV, WMV & MKV</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-integrating-video-conferencing-within-gmail-ecosystem-with-zoom/"><u>2024 Approved Integrating Video Conferencing Within Gmail Ecosystem with Zoom</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-honor-magic-5-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Honor Magic 5</u></a></li>
+<li><a href="https://win-bits.techidaily.com/best-free-streaming-services-for-music-videos-find-and-watch-your-favorite-tunes-online-and-off/"><u>Best Free Streaming Services for Music Videos: Find & Watch Your Favorite Tunes Online and Off</u></a></li>
+<li><a href="https://win-bits.techidaily.com/download-and-convert-tutv-content-to-video-files-mp4-avi-on-pc-or-mac-using-tutv-software/"><u>Download & Convert tu.tv Content to Video Files (MP4, AVI) on PC or Mac Using Tutv Software</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-actors-availability-for-video-downloads/"><u>In 2024, Actors' Availability for Video Downloads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-tips-and-tricks-adjusting-aspect-ratios-for-effective-fb-sharing/"><u>In 2024, Tips & Tricks Adjusting Aspect Ratios for Effective FB Sharing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-the-charge-the-hottest-lgbtq-shows-to-stream-on-netflix-this-summer/"><u>Leading the Charge: The Hottest LGBTQ Shows to Stream on Netflix This Summer</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-optimizing-wdf-performance-and-reducing-system-cpu-usage/"><u>Resolved: Optimizing WDF Performance & Reducing System CPU Usage</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-converting-your-favorite-yogaglo-sessions-into-common-video-formats-like-mp4-mov-or-avi/"><u>Step-by-Step Guide: Converting Your Favorite YogaGlo Sessions Into Common Video Formats Like MP4, MOV, or AVI</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-guide-transforming-moviefone-streams-into-mp4avi-files-on-both-windows-and-macos/"><u>Step-by-Step Guide: Transforming Moviefone Streams Into MP4/AVI Files on Both Windows and macOS</u></a></li>
+<li><a href="https://win-bits.techidaily.com/step-by-step-instructions-for-downloading-vvvvid-content-to-your-desktop-system/"><u>Step-by-Step Instructions for Downloading VVVVID Content to Your Desktop System</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-rated-cross-platform-video-downloader-allavsoft-your-ultimate-solution-for-macos-and-windows/"><u>Top Rated Cross-Platform Video Downloader: Allavsoft – Your Ultimate Solution for macOS & Windows</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-tubidy-tool-quick-and-easy-music-video-and-movie-downloads-from-tubidy/"><u>Ultimate Tubidy Tool: Quick & Easy Music, Video & Movie Downloads From Tubidy</u></a></li>
 </ul></div>
 

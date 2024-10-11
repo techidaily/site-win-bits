@@ -1,7 +1,7 @@
 ---
 title: "Beyond Ransomware: How Unintended Software Glitches Could Bring Vital Systems to Their Knees | Analysis on ZDNET"
-date: 2024-10-03T20:55:25.878Z
-updated: 2024-10-05T16:33:39.699Z
+date: 2024-10-10T08:29:28.736Z
+updated: 2024-10-10T19:33:50.072Z
 tags:
   - microsoft
 categories:
@@ -114,28 +114,27 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-capture-flawless-underwater-images-easily-in-7-steps/"><u>[New] In 2024, Capture Flawless Underwater Images Easily in 7 Steps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-expert-tips-for-creating-engaging-screencasts/"><u>[New] In 2024, Expert Tips for Creating Engaging Screencasts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-navigating-skypes-ecosystem-essential-free-and-paid-recording-methods-windowsmac-for-2024/"><u>[New] Navigating Skype's Ecosystem Essential Free and Paid Recording Methods (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-a-guide-to-essential-asmr-video-facts/"><u>[Updated] A Guide to Essential ASMR Video Facts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-quick-camouflage-blurring-faces-on-demand/"><u>[Updated] Quick Camouflage Blurring Faces on Demand</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-seamless-online-gif-to-video-conversion-top-5/"><u>[Updated] Seamless Online GIF to Video Conversion (Top 5)</u></a></li>
-<li><a href="https://win-bits.techidaily.com/best-techniques-for-recording-sound-with-your-chromebook/"><u>Best Techniques for Recording Sound with Your Chromebook</u></a></li>
-<li><a href="https://win-bits.techidaily.com/complete-step-by-step-tutorial-creating-custom-mp3-ringtones-on-your-iphone/"><u>Complete Step-by-Step Tutorial: Creating Custom MP3 Ringtones on Your iPhone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/from-novice-to-pro-building-perfect-circles-and-spheres-in-mc-for-2024/"><u>From Novice to Pro Building Perfect Circles & Spheres in MC for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-unlock-the-secrets-to-preserving-web-streamed-tv-shows/"><u>In 2024, Unlock the Secrets to Preserving Web-Streamed Tv Shows</u></a></li>
-<li><a href="https://win11.techidaily.com/processors-and-windows-discovering-your-cpus-generation-in-8-steps/"><u>Processors & Windows: Discovering Your CPU's Generation in 8 Steps</u></a></li>
-<li><a href="https://win-bits.techidaily.com/screen-recording-solutions-beyond-the-built-in-windows-10-gaming-toolbar/"><u>Screen Recording Solutions Beyond the Built-In Windows 10 Gaming Toolbar</u></a></li>
-<li><a href="https://win-bits.techidaily.com/snap-pictures-with-crisp-snow-like-backdrops/"><u>Snap Pictures with Crisp Snow-Like Backdrops</u></a></li>
-<li><a href="https://win-bits.techidaily.com/step-by-step-tutorial-capturing-flawless-video-broadcasts-on-ustream-made-easy/"><u>Step-by-Step Tutorial: Capturing Flawless Video Broadcasts on Ustream Made Easy</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-rated-video-platforms-expert-picks-beyond-youtube/"><u>Top Rated Video Platforms: Expert Picks Beyond YouTube</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-ranking-instagram-photo-enhancers/"><u>Top-Ranking Instagram Photo Enhancers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-screen-capture-essentials-the-finest-zero-cost-apps-for-win-10-users/"><u>[Updated] 2024 Approved Screen Capture Essentials The Finest Zero-Cost Apps for Win 10 Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-8-platforms-for-private-screenings/"><u>[Updated] Essential 8 Platforms for Private Screenings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-windows-11-decoding-the-ultimate-guide-to-performance/"><u>2024 Approved Windows 11 Decoding the Ultimate Guide to Performance</u></a></li>
+<li><a href="https://win-bits.techidaily.com/adjust-book-layout-and-format-with-flexibility-on-flipbuildercom/"><u>Adjust Book Layout & Format with Flexibility on FlipBuilder.com</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/direct-conversion-of-rtf-to-pdf-is-it-possible-with-flipbuilders-simple-technique/"><u>Direct Conversion of RTF to PDF: Is It Possible with FlipBuilder's Simple Technique?</u></a></li>
+<li><a href="https://win-bits.techidaily.com/exploring-the-variety-of-export-options-available-in-flip-office-pro-a-comprehensive-guide/"><u>Exploring the Variety of Export Options Available in Flip Office Pro: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-a34-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy A34 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-fundamentals-of-quantum-hdr-efficiency/"><u>In 2024, The Fundamentals of Quantum HDR Efficiency</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/turn-corrupt-videos-into-playable-again/"><u>Turn Corrupt Videos Into Playable Again</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-choosing-the-best-mp3-to-wav-conversion-tools-on-pcmac/"><u>Ultimate Guide: Choosing the Best MP3 to WAV Conversion Tools on PC/Mac</u></a></li>
+<li><a href="https://win-bits.techidaily.com/unlocking-the-secrets-of-part-files-steps-to-access-and-conversion-guidelines/"><u>Unlocking the Secrets of PART Files: Steps to Access and Conversion Guidelines</u></a></li>
+<li><a href="https://win-bits.techidaily.com/windows-11youtube/"><u>Windows 11によるYouTube動画の効果的な記録テクニック</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

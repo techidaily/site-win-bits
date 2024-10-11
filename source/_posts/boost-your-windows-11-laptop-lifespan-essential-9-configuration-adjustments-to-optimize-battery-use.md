@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Windows 11 Laptop Lifespan: Essential 9 Configuration Adjustments to Optimize Battery Use"
-date: 2024-10-01T17:12:10.772Z
-updated: 2024-10-05T18:23:51.792Z
+date: 2024-10-07T03:21:04.854Z
+updated: 2024-10-11T02:45:50.913Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -77,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -104,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-orderly-quest-for-veiled-youtube-vaults/"><u>[New] The Orderly Quest for Veiled YouTube Vaults</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-guidance-for-effortless-addition-of-youtube-playlists-to-your-site/"><u>[Updated] 2024 Approved Guidance for Effortless Addition of YouTube Playlists to Your Site</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-bridging-the-gap-luts-from-cg-central-to-movie-colors/"><u>[Updated] Bridging the Gap Luts From CG Central to Movie Colors</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-windows-movie-maker-tips-for-youtube-editing-excellence/"><u>[Updated] Windows Movie Maker Tips for YouTube Editing Excellence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dangers-dont-get-a-chatgpt-androidios-app/"><u>Dangers: Don't Get a ChatGPT Android/iOS App</u></a></li>
-<li><a href="https://win-bits.techidaily.com/effective-strategies-for-minimizing-your-digital-video-footage/"><u>Effective Strategies for Minimizing Your Digital Video Footage</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/logitech-mx-710-gamepad-drivers-how-to-fetch-the-latest-software-version/"><u>Logitech MX 710 Gamepad Drivers - How to Fetch the Latest Software Version</u></a></li>
-<li><a href="https://win-bits.techidaily.com/mac-users-guide-mastering-the-gameplay-techniques-in-call-of-duty-mobile/"><u>Mac Users Guide: Mastering the Gameplay Techniques in Call of Duty Mobile</u></a></li>
-<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oneplus-11r-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus 11R Black and White | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-tips-for-capturing-screen-shots-efficiently-on-your-pc/"><u>Top Tips for Capturing Screen Shots Efficiently on Your PC</u></a></li>
-<li><a href="https://win-bits.techidaily.com/ultimate-guide-to-excellent-contact-management-and-backup-apps/"><u>Ultimate Guide to Excellent Contact Management & Backup Apps</u></a></li>
-<li><a href="https://win-bits.techidaily.com/ultimate-guide-expertly-curated-mac-mind-mapping-apps-of-202/"><u>Ultimate Guide: Expertly Curated Mac Mind Mapping Apps of 202</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-online-dailymotion-converter-fast-free-and-easy-to-use/"><u>Updated Online Dailymotion Converter Fast, Free, and Easy to Use</u></a></li>
-<li><a href="https://win-bits.techidaily.com/various-methods-to-document-online-conferencing-sessions-with-a-webcam/"><u>Various Methods to Document Online Conferencing Sessions with a Webcam</u></a></li>
-<li><a href="https://win-bits.techidaily.com/zero-cost-methods-for-combining-pdf-documents-on-the-internet/"><u>Zero Cost Methods for Combining PDF Documents on the Internet</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-10plus-top-videos-and-tutorials-on-best-iphoneipad-editing-tools/"><u>[New] 10+ Top Videos & Tutorials on Best iPhone/iPad Editing Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-a-comprehensive-look-at-vrs-strengths-and-weaknesses/"><u>[New] 2024 Approved A Comprehensive Look at VR's Strengths and Weaknesses</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-quick-access-to-xps-movie-making-tools/"><u>[New] In 2024, Quick Access to XP's Movie Making Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-listen-and-store-2024s-iphone-call-logger/"><u>[Updated] Listen and Store 2024'S iPhone Call Logger</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-video-transfer-mastery-with-myspass-downloader-seamless-conversion-from-myspass-to-popular-video-formats/"><u>1. 'Video Transfer Mastery with Myspass Downloader: Seamless Conversion From Myspass to Popular Video Formats'</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-easymp4-converter-transfer-your-favorite-dramafire-content-into-high-quality-video-format/"><u>1. EasyMP4 Converter: Transfer Your Favorite DramaFire Content Into High-Quality Video Format</u></a></li>
+<li><a href="https://win-bits.techidaily.com/allavsoft-the-ultimate-spotify-to-mp3-converter-for-mac-and-windows-pcs/"><u>Allavsoft: The Ultimate Spotify-to-MP3 Converter for Mac & Windows PCs</u></a></li>
+<li><a href="https://win-bits.techidaily.com/convert-and-download-cinemassacre-video-content-as-mp4-wmv-mov-flv-or-avi-for-pc-and-mac/"><u>Convert & Download Cinemassacre Video Content as MP4, WMV, MOV, FLV or AVI for PC and Mac</u></a></li>
+<li><a href="https://win-bits.techidaily.com/download-free-episodes-from-wattiv-ultimate-guide-to-catching-up-on-your-favorite-shows/"><u>Download Free Episodes From WATTIV: Ultimate Guide to Catching Up on Your Favorite Shows</u></a></li>
+<li><a href="https://win-bits.techidaily.com/download-songs-from-simfy-in-high-quality-get-mp3-wav-and-flac-formats/"><u>Download Songs From Simfy in High Quality: Get MP3, WAV, and FLAC Formats</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-the-amazon-kindle-paperwhite-2-nd-gen-2018-elevates-your-reading-habit-an-in-depth-review/"><u>How the Amazon Kindle Paperwhite (2 Nd Gen, 2018) Elevates Your Reading Habit: An In-Depth Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/showcase-a-dialogue-in-one-instagram-post/"><u>Showcase a Dialogue in One Instagram Post</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/wii-us-winning-strategy-an-insight-into-its-global-commercial-triumph/"><u>Wii U's Winning Strategy: An Insight Into Its Global Commercial Triumph</u></a></li>
 </ul></div>
 

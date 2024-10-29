@@ -1,7 +1,7 @@
 ---
 title: Geef Je Verdwenen Externe Harde Schijf Eenmaal Terug - Opgolen en Vinden!
-date: 2024-10-17T18:55:44.950Z
-updated: 2024-10-23T06:29:28.283Z
+date: 2024-10-25T23:08:55.124Z
+updated: 2024-10-28T19:50:43.182Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ec364dbb6168e683e422487379a99c7901eeab42baca05e040ad76d70daee8c3.jpg
@@ -66,22 +66,15 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -119,6 +112,19 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -151,6 +157,13 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -176,6 +189,13 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -211,19 +231,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -245,16 +252,10 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
@@ -276,26 +277,13 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -312,18 +300,18 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-bits.techidaily.com/1728497339115-3/"><u>一流ランキング! フリーバージョンの写真修復ソフト3種類、使い方・比較レポート</u></a></li>
-<li><a href="https://win-bits.techidaily.com/comprehensive-walkthrough-restoring-default-settings-via-windows-factory-reset-on-the-chuwi-hi10-laptop/"><u>Comprehensive Walkthrough: Restoring Default Settings via Windows Factory Reset on the Chuwi Hi10 Laptop</u></a></li>
-<li><a href="https://win-bits.techidaily.com/efficient-acer-pc-reset-strategies-in-windows-11-the-ultimate-top-three-guide/"><u>Efficient Acer PC Reset Strategies in Windows 11: The Ultimate Top Three Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-elevating-remote-meetings-learning-close-up-zoom-methods/"><u>In 2024, Elevating Remote Meetings Learning Close-Up Zoom Methods</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-mastering-mp4-video-editing-a-step-by-step-guide-for-mac-and-windows-users/"><u>In 2024, Mastering MP4 Video Editing A Step-by-Step Guide for Mac and Windows Users</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photography-revolution-toolwizs-2023-app-insights/"><u>In 2024, Photography Revolution Toolwiz's 2023 App Insights</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-free-green-screen-apps-for-mobile-creators-for-2024/"><u>New The Ultimate List of Free Green Screen Apps for Mobile Creators for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/step-by-step-strategies-to-make-your-video-stand-out-with-effective-end-screens/"><u>Step-by-Step Strategies to Make Your Video Stand Out with Effective End Screens</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/surligner-les-restrictions-disney-des-astuces-pour-sauvegarder-et-transformer-vos-films-disney-sur-dvd/"><u>Surligner Les Restrictions Disney : Des Astuces Pour Sauvegarder Et Transformer Vos Films Disney Sur DVD</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-3-fixes-pour-resoudre-les-problemes-de-sauvegarde-sous-windows-10-8-et-7/"><u>Top 3 Fixes Pour Résoudre Les Problèmes De Sauvegarde Sous Windows 10, 8 Et 7</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-4-no-cost-disk-imaging-tools-for-windows-users-11-10-8-and/"><u>Top 4 No-Cost Disk Imaging Tools for Windows Users (11, 10, 8 &</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-solutions-de-securisation-et-logiciels-adaptes-pour-ordinateurs-personnels-sous-windows/"><u>Top Solutions De Sécurisation Et Logiciels Adaptés Pour Ordinateurs Personnels Sous Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-why-downloading-chatgpt-on-your-phone-may-not-be-ideal/"><u>Understanding Why Downloading ChatGPT on Your Phone May Not Be Ideal</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevate-your-video-with-smart-end-screen-techniques-for-2024/"><u>[New] Elevate Your Video with Smart End Screen Techniques for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-step-by-step-guide-for-capturing-stunning-insta-cover-photos-for-your-highlights/"><u>[Updated] 2024 Approved Step-by-Step Guide for Capturing Stunning Insta Cover Photos for Your Highlights</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-efficiently-navigating-zoom-on-chrome-devices/"><u>2024 Approved Efficiently Navigating Zoom on Chrome Devices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-gpio-control-program-free-download/"><u>AMD GPIO Control Program - Free Download</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/battle-of-giants-how-iphone-15-pro-max-stacks-up-against-samsung-galaxy-s2n-ultra/"><u>Battle of Giants: How iPhone 15 Pro Max Stacks Up Against Samsung Galaxy S2n Ultra</u></a></li>
+<li><a href="https://win-bits.techidaily.com/einfache-methoden-zum-hochladen-von-mac-bildern-auf-die-festplatte-verstehen/"><u>Einfache Methoden Zum Hochladen Von Mac-Bildern Auf Die Festplatte Verstehen</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-to-disable-microsoft-onedrive-on-windows-10-and-11-systems-easy-guide/"><u>How to Disable Microsoft OneDrive on Windows 10 and 11 Systems: Easy Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-nokia-g310-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Nokia G310 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-itel-a70-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Itel A70 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/reclaiming-windows-photo-viewer-in-windows-10-methods-demystified-for-2024/"><u>Reclaiming Windows Photo Viewer in Windows 10 - Methods Demystified for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/reviving-your-pc-step-by-step-guide-to-rebooting-windows-10-or-11-via-command-line/"><u>Reviving Your PC: Step-by-Step Guide to Rebooting Windows 10 or 11 via Command Line</u></a></li>
+<li><a href="https://win-bits.techidaily.com/solusi-mutu-untuk-mendokumentasi-kesilangkarnya-dan-memperbaiki-windows-11/"><u>Solusi Mutu Untuk Mendokumentasi Kesilangkarnya Dan Memperbaiki Windows 11</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-premier-techniques-streamlining-audio-panning-and-volume-balancing/"><u>Updated Premier Techniques Streamlining Audio Panning and Volume Balancing</u></a></li>
 </ul></div>
 

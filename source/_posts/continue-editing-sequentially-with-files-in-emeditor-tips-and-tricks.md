@@ -1,7 +1,7 @@
 ---
 title: Continue Editing Sequentially with Files in EmEditor - Tips & Tricks
-date: 2024-10-09T18:20:08.950Z
-updated: 2024-10-17T07:36:02.770Z
+date: 2024-10-27T18:16:38.436Z
+updated: 2024-10-28T22:10:48.277Z
 tags:
   - product
 categories:
@@ -75,31 +75,37 @@ This is an example of the macro that opens the next .txt file in the same folder
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-anonymous-artifacts-auction-2023-the-quest-for-digital-secrecy/"><u>[New] In 2024, Anonymous Artifacts Auction-2023 The Quest for Digital Secrecy</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-seamless-video-communication-between-xbox-and-zoom/"><u>2024 Approved Achieving Seamless Video Communication Between Xbox & Zoom</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-nokia-c110-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Nokia C110 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/aomei-backupper-erfahrung-beheben-sie-fehler-404-wenn-seiten-nicht-gefunden-werden/"><u>AOMEI Backupper Erfahrung: Beheben Sie Fehler 404, Wenn Seiten Nicht Gefunden Werden</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-steps-to-resolve-chromecast-connectivity-problems-quickly/"><u>Five Steps to Resolve Chromecast Connectivity Problems Quickly</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-realtek-rtl81eacw-based-rtl8188cu-wifi-driver-suite-for-win-107/"><u>Get the Latest Realtek RTL81eacw-Based RTL8188CU WiFi Driver Suite for Win 10/7</u></a></li>
-<li><a href="https://win-bits.techidaily.com/guarantee-seamless-windows-start-up-with-these-11-proven-strategies-avoid-powering-down/"><u>Guarantee Seamless Windows Start-Up with These 11 Proven Strategies – Avoid Powering Down</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-oppo-a1x-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo A1x 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://win-bits.techidaily.com/klopfen-sie-auf-die-festplatten-kopie-und-vergrosserung-in-windows-mit-variabler-dateigrosse/"><u>Klopfen Sie Auf Die Festplatten-Kopie Und -Vergrößerung in Windows Mit Variabler Dateigröße</u></a></li>
-<li><a href="https://win-bits.techidaily.com/maitriser-la-creation-de-points-de-restauration-dans-windows-11-tutoriel-complementaire-et-detaille/"><u>Maîtriser La Création De Points De Restauration Dans Windows 11: Tutoriel Complémentaire Et Détaillé</u></a></li>
-<li><a href="https://article-helps.techidaily.com/navigating-the-ipodiverse-compreenasol-for-ios-podcast-downloads/"><u>Navigating the iPodiverse Compreenasol for iOS Podcast Downloads</u></a></li>
-<li><a href="https://win-bits.techidaily.com/professionelle-anleitung-zum-ausfuhren-einer-datenablage-fur-windows-server-2022-mit-hilfe-eines-usb-speichersticks/"><u>Professionelle Anleitung Zum Ausführen Einer Datenablage Für Windows Server 2022 Mit Hilfe Eines USB-Speichersticks</u></a></li>
-<li><a href="https://win-bits.techidaily.com/quick-steps-for-erasing-disk-partitions-on-your-windows-1011-system/"><u>Quick Steps for Erasing Disk Partitions on Your Windows 10/11 System</u></a></li>
-<li><a href="https://win-bits.techidaily.com/repariere-deine-dateisystemprobleme-3-effektive-strategien-fur-den-windows-server-2003/"><u>Repariere Deine Dateisystemprobleme: 3 Effektive Strategien Für Den Windows-Server 2003</u></a></li>
-<li><a href="https://win-bits.techidaily.com/windows-1110-dell/"><u>Windows 11から10へのスムーズなダウングレード - Dellを使用</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-wont-play-hevc-h265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi won’t play HEVC H.265 media, how to fix?</u></a></li>
-<li><a href="https://win-bits.techidaily.com/44oh44o844k5pcn5asx44ks6ziy44gq44gf44kb44gr44cb44gp44gt44gn44cb44ge44gk5akx5yig44oq44od44kv44ki44od44ox44ks6kgm44gg44gl77yf/"><u>データ損失を防ぐために、どこで、いつ増分バックアップを行うか？</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-digital-theater-at-your-fingertips-ioss-best-movie-apps/"><u>[New] 2024 Approved Digital Theater at Your Fingertips - iOS's Best Movie Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-camstudio-live-streaming-and-screen-capturing-review/"><u>[New] In 2024, CamStudio Live Streaming & Screen Capturing Review</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-essential-guide-to-using-zdsoft-vision/"><u>2024 Approved The Essential Guide to Using ZDSoft Vision</u></a></li>
+<li><a href="https://win-bits.techidaily.com/come-crittografare-i-tuoi-file-di-immagini-con-aomei-backupper-pro-per-un-backup-sicuro/"><u>Come Crittografare I Tuoi File Di Immagini Con AOMEI Backupper Pro per Un Backup Sicuro</u></a></li>
+<li><a href="https://win-bits.techidaily.com/como-transferir-la-ruta-de-inicio-de-windows-11-a-un-ssd-sin-reinstalacion/"><u>Cómo Transferir La Ruta De Inicio De Windows 11 a Un SSD Sin Reinstalación</u></a></li>
+<li><a href="https://win-bits.techidaily.com/convert-and-mimic-ssd-performance-using-a-cloned-hard-disk-sata-across-various-windows-oses/"><u>Convert and Mimic SSD Performance Using a Cloned Hard Disk (SATA) Across Various Windows OSes</u></a></li>
+<li><a href="https://win-bits.techidaily.com/effortless-methods-for-a-clean-iphone-transfer-when-preparing-to-sell-your-device/"><u>Effortless Methods for a Clean iPhone Transfer When Preparing to Sell Your Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-unveiled-resolving-pc-issues-in-the-remastered-version-of-yakuza-3/"><u>Fixes Unveiled: Resolving PC Issues in the Remastered Version of Yakuza 3</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-narzo-60-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme Narzo 60 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-media-conversion-with-actionable-steps-from-xml-for-2024/"><u>Mastering Media Conversion with Actionable Steps From XML for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-telephone-job-interviews-proven-strategies-for-impressing-recruiters-and-advance-to-face-to-face-discussions/"><u>Mastering Telephone Job Interviews: Proven Strategies for Impressing Recruiters and Advance to Face-to-Face Discussions</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-windows-lunar-client-failure-errors-quickly/"><u>Overcoming “Windows Lunar Client Failure” Errors Quickly</u></a></li>
+<li><a href="https://win-bits.techidaily.com/repertuaran-membuatnya-sederhana-cara-bimbingan-untuk-menyelesaikan-masalah-iphone-di-icloud/"><u>Repertuaran Membuatnya Sederhana: Cara Bimbingan Untuk Menyelesaikan Masalah iPhone Di iCloud</u></a></li>
+<li><a href="https://win-bits.techidaily.com/surface-pro-8ssd/"><u>Surface Pro 8のSSDを新しく輝かせる! - 改良・交換方法ガイド</u></a></li>
+<li><a href="https://win-bits.techidaily.com/transferer-en-douceur-vos-donnees-vers-onedrive-methodes-alternatives-a-la-mise-en-place-de-depositaires-3-options/"><u>Transférer en Douceur Vos Données Vers OneDrive - Méthodes Alternatives À La Mise en Place De Dépositaires (3 Options) !</u></a></li>
+<li><a href="https://win-bits.techidaily.com/troubleshoot-and-repair-how-to-get-your-computer-to-boot-from-media-in-windows-10-4-proven-techniques/"><u>Troubleshoot and Repair: How to Get Your Computer to Boot From Media in Windows 10 (4 Proven Techniques)</u></a></li>
+<li><a href="https://win-bits.techidaily.com/turbocharge-your-dell-xps-8930-performance-by-switching-to-a-speedy-ssd/"><u>Turbocharge Your Dell XPS 8930 Performance by Switching to a Speedy SSD</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/unlock-6-free-youtube-endings-for-pros-for-2024/"><u>Unlock 6 Free YouTube Endings for Pros for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/wie-man-die-anderungsprotokolle-von-datenversionen-unter-windows-10-entfernt-anleitung-und-tipps/"><u>Wie Man Die Änderungsprotokolle Von Datenversionen Unter Windows 10 Entfernt - Anleitung Und Tipps</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

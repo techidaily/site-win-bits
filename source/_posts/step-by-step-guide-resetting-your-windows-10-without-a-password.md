@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resetting Your Windows 10 Without a Password"
-date: 2024-11-25T20:29:11.196Z
-updated: 2024-12-01T02:47:03.254Z
+date: 2024-12-23T01:12:24.118Z
+updated: 2024-12-24T03:30:03.598Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007cc281a812d3b0157adab9f77.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/641461279d3ad9059bf4fdcda2c6b1609c3c8007c
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
@@ -32,6 +32,10 @@ Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Table des matières** 
 
 1. [Logiciel de sauvegarde NAS Buffalo pour système Windows](https://tools.techidaily.com/ubackup/products/)
@@ -40,7 +44,7 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -50,6 +54,10 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 À ce stade, vous avez besoin d'un logiciel de sauvegarde NAS Buffalo, de préférence le plus simple. Les Buffalo LinkStation et Buffalo TeraStation sont équipés d'un lecteur NAS pour vous aider à sauvegarder des photos, des vidéos, de la musique, etc. ou à les partager, mais la plupart des appareils ne prennent en charge que le système Linux et certains sont disponibles sur Windows Server 2016\. Que faire si vous utilisez Windows 7/8/10/11 ?
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
@@ -89,16 +97,12 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
@@ -109,16 +113,12 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -128,10 +128,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -183,6 +179,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,19 +198,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-top-7-unboxing-excellence-strategies/"><u>[New] Top 7 Unboxing Excellence Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-steps-to-proficient-gif-design/"><u>[Updated] Quick Steps to Proficient GIF Design</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/bellylaugh-beats-top-choices-for-laughable-ringtone-downloads/"><u>BellyLaugh Beats Top Choices for Laughable Ringtone Downloads</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-standard-the-top-10-customizations-for-chatgpt/"><u>Beyond Standard: The Top 10 Customizations for ChatGPT</u></a></li>
-<li><a href="https://win-bits.techidaily.com/guia-simple-para-hacer-copias-de-seguridad-incrementales-del-servidor-windows-2n19-explora-tres-maneras-faciles/"><u>Guía Simple Para Hacer Copias De Seguridad Incrementales Del Servidor Windows 2N19 – Explora Tres Maneras Fáciles</u></a></li>
-<li><a href="https://win-bits.techidaily.com/guide-facile-comment-construire-votre-dvd-bootable-pour-windows-7-via-la-console-de-commands-cmd/"><u>Guide Facile : Comment Construire Votre DVD Bootable Pour Windows 7 via La Console De Commands (CMD)</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/learn-to-turn-videos-on-the-fly-using-vlc-for-2024/"><u>Learn to Turn Videos on the Fly Using VLC for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/notwendige-hardware-und-software-anforderungen-fur-das-aomei-centralized-backup-verwalten/"><u>Notwendige Hardware Und Software-Anforderungen Für Das AOMEI Centralized Backup Verwalten</u></a></li>
-<li><a href="https://win-bits.techidaily.com/resolving-the-error-1000203-during-a-system-restore-on-windows-10-a-step-by-step-guide/"><u>Resolving the 'Error 1000203' During a System Restore on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-bits.techidaily.com/soluciones-alternativas-cuando-gpeditmsc-no-esta-disponible-en-windows-11-3-opciones/"><u>Soluciones Alternativas Cuando GPEDIT.MSC No Está Disponible en Windows 11: 3 Opciones</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-list-free-tools-to-update-your-drivers-in-july-2024/"><u>The Ultimate List: Free Tools to Update Your Drivers in July 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unlocking-superior-slow-motion-quality-through-fps-selection-for-2024/"><u>Unlocking Superior Slow Motion Quality Through FPS Selection for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/uno-required-settings-a-step-by-step-guide-to-transitioning-data-between-iphones-without-a-factory-reset/"><u>Uno Required Settings: A Step-by-Step Guide to Transitioning Data Between iPhones without a Factory Reset</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mac-users-speak-out-the-real-impact-of-screenflow-software/"><u>[Updated] In 2024, Mac Users Speak Out The Real Impact of ScreenFlow Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-mini-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 12 mini</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expedited-files-scanning-on-windows-os-for-2024/"><u>Expedited Files Scanning on Windows OS for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/masters-top-ten-female-gaming-influencers-for-2024/"><u>Game Masters Top Ten Female Gaming Influencers for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/hd-black-wallpaper-graphics-high-resolution-backgrounds-and-images-by-yl-computing/"><u>HD Black Wallpaper Graphics: High-Resolution Backgrounds and Images by YL Computing</u></a></li>
+<li><a href="https://win-bits.techidaily.com/how-does-cryptocurrency-stand-out-a-deep-dive-into-its-special-traits-by-yl-software-experts/"><u>How Does Cryptocurrency Stand Out?: A Deep Dive Into Its Special Traits by YL Software Experts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/identifying-and-checking-the-sound-card-hardware-in-windows-1087-with-ease/"><u>Identifying and Checking the Sound Card Hardware in Windows 10/8/7 with Ease</u></a></li>
+<li><a href="https://win-bits.techidaily.com/identifying-prevalent-issues-leading-to-pc-component-malfunctions-a-guide-from-yl-software-experts/"><u>Identifying Prevalent Issues Leading to PC Component Malfunctions: A Guide From YL Software Experts</u></a></li>
+<li><a href="https://win-bits.techidaily.com/in-depth-doctor-who-character-illustrations-visuals-and-artwork-collection-by-yl-computing/"><u>In-Depth Doctor Who Character Illustrations, Visuals & Artwork Collection by YL Computing</u></a></li>
+<li><a href="https://win-bits.techidaily.com/is-your-memory-card-operating-correctly-find-out-with-these-easy-steps-from-yl-computing/"><u>Is Your Memory Card Operating Correctly? Find Out with These Easy Steps From YL Computing!</u></a></li>
+<li><a href="https://win-bits.techidaily.com/master-your-system-management-with-yls-comprehensive-tutorial-for-addingremoving-programs/"><u>Master Your System Management with YL's Comprehensive Tutorial for Adding/Removing Programs</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-the-process-of-turning-esd-files-into-windows-isos/"><u>Navigating the Process of Turning ESD Files Into Windows ISOs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-realme-11-proplus-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Realme 11 Pro+ has been deleted.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-when-your-corsair-icue-stops-functioning-in-windows-10-or-11/"><u>Solutions for When Your Corsair iCUE Stops Functioning in Windows 10 or 11</u></a></li>
+<li><a href="https://win-bits.techidaily.com/solving-the-mystery-expert-guide-on-fixing-blue-screen-of-death-issues-tips-from-yl-computing/"><u>Solving the Mystery: Expert Guide on Fixing 'Blue Screen of Death' Issues - Tips From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fix-resolving-the-persistent-ntdlldll-dump-error-in-win11-and-win10/"><u>Step-by-Step Fix: Resolving the Persistent ntdll.dll Dump Error in Win11 & Win10</u></a></li>
+<li><a href="https://win-bits.techidaily.com/update-your-pcdj-red-dj-software-now-free-downloads-available/"><u>Update Your PCDJ RED DJ Software Now! Free Downloads Available</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-filmora-13-video-editor-free-download-2024-update/"><u>Updated Get Filmora 13 Video Editor Free Download 2024 Update</u></a></li>
 </ul></div>
 

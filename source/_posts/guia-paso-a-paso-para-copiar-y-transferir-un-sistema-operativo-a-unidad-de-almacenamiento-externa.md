@@ -1,7 +1,7 @@
 ---
 title: Guía Paso a Paso Para Copiar Y Transferir Un Sistema Operativo a Unidad De Almacenamiento Externa
-date: 2025-01-09T17:47:39.516Z
-updated: 2025-01-15T02:48:57.280Z
+date: 2025-01-24T17:48:18.352Z
+updated: 2025-01-26T17:43:01.693Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/3dae50570edf845253cb7d1a2a03642e6fd28847b0566a64ae5bae28165ba633.jpg
@@ -24,13 +24,13 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -53,10 +53,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -74,12 +70,16 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -98,10 +98,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -122,7 +118,7 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -143,6 +139,10 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -156,10 +156,6 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -207,10 +203,6 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -232,6 +224,10 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -265,6 +261,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -280,16 +280,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-essential-10-hd-android-video-player-apps-list-for-2024/"><u>[New] Essential 10 HD Android Video Player Apps List for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-step-up-your-game-on-tiktok-top-50-trending-tags/"><u>[New] Step Up Your Game on TikTok Top 50 Trending Tags</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-master-download-manager-facebook-and-firefox-edition-tools-for-2024/"><u>[Updated] Master Download Manager Facebook & FireFox Edition Tools for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/airborne-ingenuity-sections-for-2024/"><u>Airborne Ingenuity Sections for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/boosting-teamwork-and-efficiency-in-an-outdated-office-a-comprehensive-guide-to-modernization-strategies-zdnet/"><u>Boosting Teamwork & Efficiency in an Outdated Office: A Comprehensive Guide to Modernization Strategies | ZDNET</u></a></li>
-<li><a href="https://win-bits.techidaily.com/detailed-review-of-jabra-evolve2-75-audio-gear-ideal-anc-solution-and-24-hour-talk-time-for-remote-and-mixed-work-environments-analysis-by-zdnet/"><u>Detailed Review of Jabra Evolve2 75 Audio Gear: Ideal ANC Solution & 24-Hour Talk Time for Remote and Mixed Work Environments | Analysis by ZDNET</u></a></li>
-<li><a href="https://win-bits.techidaily.com/extend-the-lifespan-of-your-computer-with-these-cost-free-tricks-beating-the-end-of-support-in-windows-11-gadgetflow/"><u>Extend the Lifespan of Your Computer with These Cost-Free Tricks, Beating the End of Support in Windows 11 | GadgetFlow</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-10t-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 10T 5G</u></a></li>
-<li><a href="https://win-bits.techidaily.com/integrating-microsoft-copilot-into-singapores-judicial-tech-ecosystem-a-new-era-of-legal-automation-zdnet/"><u>Integrating Microsoft Copilot Into Singapore's Judicial Tech Ecosystem: A New Era of Legal Automation | ZDNet</u></a></li>
-<li><a href="https://article-tips.techidaily.com/renewal-of-photo-viewing-capabilities-in-windows-10-guide/"><u>Renewal of Photo Viewing Capabilities in Windows 10 - Guide</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solving-the-stuck-screen-issue-7-tips-for-iphone-apple-logo-dilemma/"><u>Solving the Stuck Screen Issue: 7 Tips for iPhone Apple Logo Dilemma</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/star-wars-perfect-movie-watching-order-on-disney-plus-explained/"><u>'Star Wars': Perfect Movie-Watching Order on Disney Plus Explained!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-safeguarding-your-listening-pleasure-with-3-steps/"><u>[New] 2024 Approved Safeguarding Your Listening Pleasure with 3 Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-visual-narrative-crafting-your-podcasts-brand-image/"><u>[Updated] The Visual Narrative Crafting Your Podcast's Brand Image</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deciphering-japan-the-alphabet-unveiled/"><u>Deciphering Japan: The Alphabet Unveiled</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-s17-profrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo S17 ProFRP Lock</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-lenovo-thinkpad-x1-titanium-yoga-the-ultimate-2-in-1-laptop-that-will-thrill-longtime-thinkpad-loyalists/"><u>In-Depth Analysis of the Lenovo ThinkPad X1 Titanium Yoga - The Ultimate 2-in-1 Laptop That Will Thrill Longtime ThinkPad Loyalists</u></a></li>
+<li><a href="https://win-bits.techidaily.com/prepare-your-wallet-microsoft-announces-paid-windows-11-update-feature-starting-next-year-what-you-need-to-know/"><u>Prepare Your Wallet: Microsoft Announces Paid Windows 11 Update Feature Starting Next Year – What You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revamping-file-management-how-to-alter-folder-colors-on-a-mac-computer/"><u>Revamping File Management: How to Alter Folder Colors on a Mac Computer</u></a></li>
+<li><a href="https://win-bits.techidaily.com/revive-your-aging-pc-with-these-5-free-fixes-times-running-out-in-windows-10-zdnet/"><u>Revive Your Aging PC with These 5 FREE Fixes - Time's Running Out in Windows 10! | ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/seamless-cross-platform-file-sharing-windows-and-android-via-google-quick-share-tips-from-zdnet/"><u>Seamless Cross-Platform File Sharing: Windows & Android via Google Quick Share - Tips From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/soil-moisture-content/"><u>Soil Moisture Content</u></a></li>
+<li><a href="https://win-bits.techidaily.com/tame-your-pc-top-strategies-for-a-hassle-free-windows-11-experience-insights-from-zdnet/"><u>Tame Your PC: Top Strategies for a Hassle-Free Windows 11 Experience - Insights From ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/oung-entrepreneur-writes-his-own-financial-story/"><u>The Young Entrepreneur’ Writes His Own Financial Story</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/transition-from-lastpass-to-icloud-for-secure-password-management-on-pc-a-step-by-step-guide/"><u>Transition From LastPass to iCloud for Secure Password Management on PC - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-bits.techidaily.com/troubleshooting-and-resolving-windows-search-errors-expert-advice-from-zdnet/"><u>Troubleshooting and Resolving Windows Search Errors: Expert Advice From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/understanding-the-role-of-tpm-in-windows-11-a-comprehensive-guide/"><u>Understanding the Role of TPM in Windows 11: A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up a Restore Point Using AOMEI Backup"
-date: 2025-02-16T22:27:32.936Z
-updated: 2025-02-18T22:42:19.240Z
+date: 2025-02-28T17:41:20.811Z
+updated: 2025-03-07T16:45:33.805Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/d37eff43ca85f1c6727bb1c48930aa293f0c1790252e534383e8e0730d7ae092.jpg
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -69,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -88,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -113,17 +93,9 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -198,21 +170,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-correcting-muted-voice-in-obs-broadcasts-for-2024/"><u>[New] Correcting Muted Voice in OBS Broadcasts for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-13-best-ways-to-make-money-on-reddit-no-experience-needed-for-2024/"><u>[Updated] 13 Best Ways to Make Money on Reddit - No Experience Needed for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-content-earning-currency-launching-your-vlog/"><u>[Updated] In 2024, Creating Content, Earning Currency Launching Your Vlog</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-masterful-music-management-with-easy-vrecorder-downloads/"><u>[Updated] In 2024, Masterful Music Management with Easy VRecorder Downloads</u></a></li>
-<li><a href="https://win-bits.techidaily.com/11-essential-touchpad-shortcuts-every-skilled-user-should-master-uncover-the-secrets-with-zdnet/"><u>11 Essential Touchpad Shortcuts Every Skilled User Should Master - Uncover the Secrets with ZDNet</u></a></li>
-<li><a href="https://win-bits.techidaily.com/are-ai-powered-computers-right-for-your-needs-insights-and-reviews-from-tech-experts/"><u>Are AI-Powered Computers Right for Your Needs? Insights and Reviews From Tech Experts.</u></a></li>
-<li><a href="https://win11.techidaily.com/clear-the-air-solving-microphone-problems-in-microsoft-powered-meet/"><u>Clear the Air: Solving Microphone Problems in Microsoft-Powered Meet</u></a></li>
-<li><a href="https://games-able.techidaily.com/dissecting-differences-between-asus-tuf-proart-and-prime-models/"><u>Dissecting Differences Between Asus, Tuf, ProArt & Prime Models</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-privacy-instructions-for-setting-up-password-on-nintendo-switch/"><u>Elevate Privacy: Instructions for Setting Up Password on Nintendo Switch</u></a></li>
-<li><a href="https://win-bits.techidaily.com/elevate-your-gaming-setup-with-secretlabs-chic-and-comfy-seat-covers-a-zdnet-review/"><u>Elevate Your Gaming Setup with Secretlab's Chic and Comfy Seat Covers - A ZDNet Review</u></a></li>
-<li><a href="https://win-bits.techidaily.com/gardyn-home-kit-review-a-user-friendly-innovative-smart-garden-for-year-round-fresh-produce-zdnet-insight/"><u>Gardyn Home Kit Review: A User-Friendly, Innovative Smart Garden for Year-Round Fresh Produce | ZDNET Insight</u></a></li>
-<li><a href="https://win-bits.techidaily.com/get-the-benefits-of-a-touch-display-for-your-macbook-how-to-use-a-compatible-portable-monitor-features-unveiled-by-zdnet/"><u>Get the Benefits of a Touch Display for Your MacBook: How to Use a Compatible Portable Monitor – Features Unveiled by ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-top-10-impactful-instagram-tags-for-maximum-reach/"><u>In 2024, Top 10 Impactful Instagram Tags for Maximum Reach</u></a></li>
-<li><a href="https://win-bits.techidaily.com/save-big-secure-your-microsoft-office-2019-for-less-than-26-windows-and-mac-compatible-offers-now/"><u>Save Big: Secure Your Microsoft Office 2019 for Less Than $26 – Windows & Mac Compatible Offers Now!</u></a></li>
-<li><a href="https://win-bits.techidaily.com/top-it-certifications-across-every-professional-phase-insights-from-zdnet/"><u>Top IT Certifications Across Every Professional Phase: Insights From ZDNet</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-master-your-digital-creations-selecting-top-7-nft-generating-platforms/"><u>[New] Master Your Digital Creations - Selecting Top 7 NFT-Generating Platforms</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1728478348062-windows-11/"><u>對付 Windows 11 保存的系統分割無法更新的修復挑戰</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-the-apple-iphone-15-plus-icloud-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing the Apple iPhone 15 Plus iCloud Lock</u></a></li>
+<li><a href="https://win-bits.techidaily.com/clonage-de-windows-11-en-seulement-3-etapes-comment-refaire-copie-sur-un-ssd-compact/"><u>Clonage De Windows 11 en Seulement 3 Etapes: Comment Refaire Copie Sur Un SSD Compact</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/converting-jpegpng-images-to-pdf-on-ipad-and-iphone-devices/"><u>Converting JPEG/PNG Images to PDF on iPad and iPhone Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crucial-considerations-when-choosing-your-ideal-smartwatch-top-5-insights/"><u>Crucial Considerations When Choosing Your Ideal Smartwatch - Top 5 Insights</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-s17t-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo S17t Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-oppo-a79-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Oppo A79 5G</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-methods-for-computer-based-vhs-artistic-touches/"><u>In 2024, Perfect Methods for Computer-Based VHS Artistic Touches</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rs-choice-the-ultimate-collection-of-downloader-tools/"><u>Master's Choice The Ultimate Collection of Downloader Tools</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-gameplay-with-corsair-one-pro-a-comprehensive-pc-hardware-review/"><u>Mastering Gameplay with Corsair One Pro: A Comprehensive PC Hardware Review</u></a></li>
+<li><a href="https://win-bits.techidaily.com/paso-a-paso-para-cambiar-el-disco-duro-de-tu-portatil-y-reinstalar-el-sistema-operativo/"><u>Paso a Paso Para Cambiar El Disco Duro De Tu Portátil Y Reinstalar El Sistema Operativo</u></a></li>
+<li><a href="https://win-bits.techidaily.com/story-2-the-plate-and-frame-heat-exchanger-misunderstanding/"><u>Story 2: The Plate and Frame Heat Exchanger Misunderstanding</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-esxcli-techniques-for-managing-virtual-machines-in-vmware-with-powershell/"><u>Top ESXCLI Techniques for Managing Virtual Machines in VMware with PowerShell</u></a></li>
+<li><a href="https://win-bits.techidaily.com/wiederherstellung-verlorener-dokumente-methoden-zur-wiederherstellung-geloschter-daten-auf-windows-server-201/"><u>Wiederherstellung Verlorener Dokumente: Methoden Zur Wiederherstellung Gelöschter Daten Auf Windows Server 201</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Safe Data Handling Using Windows' Security Features on Versions 7, 8, 10 & 11
-date: 2025-02-11T21:23:36.449Z
-updated: 2025-02-18T20:48:04.629Z
+date: 2025-03-05T17:08:00.218Z
+updated: 2025-03-07T17:34:55.635Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d28f55d619b92fd6d20b9c57c.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/0afe01c2e0f6b1c3ba9a8b87db7e0159921da64d2
 Want to create an image, restore image, or clone hard drive via Norton Ghost? This guide will tell you how to use Norton Ghost step by step. It also provides you with an easy alternative.
 
 ![Lena](https://www.ubackup.com/assets/images/author/Lena.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Lena](https://tools.techidaily.com/ubackup/products/)Updated on June 5, 2024
 
@@ -79,15 +75,7 @@ Here in this guide, you will get the detailed steps about how to use Symantec Gh
 
 [![Click Custom](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/norton-ghost/click-custom.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4\. Finally, click **OK** to confirm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Restore Image with Norton Ghost
 
@@ -140,10 +128,6 @@ Download it to have a try! If you are using a server system, such as, server 200
 
 Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Create Image Backup
 
 Take disk backup as an example. Follow the step below to backup your computer disk.
@@ -154,10 +138,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 
 [![Disk Backup](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/disk-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2\. Click **Add Disk** to choose the system disk to be backed up.
 
 [![Add Disk](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/add-disk.png)
@@ -165,10 +145,6 @@ Select the corresponding backup methods if you want to backup system, partition 
 3\. Choose a destination path to save the disk image. You can save the backup image on a local hard drive, external hard drive, USB flash drive, or network drive, etc. Click **Start Backup** when you are ready.
 
 [![Select Backup Destination](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/disk-backup/select-backup-destination.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 👉 **Notes:**
 
@@ -181,24 +157,12 @@ If you have created a backup with AOMEI Backupper, you can easily perform a rest
 
 [![Restore](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/restore/disk-restore/home-restore.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 👉 **Notes:** 
 
 * With AOMEI **[Universal Restore](https://tools.techidaily.com/ubackup/products/)** feature, you can restore a backup image, system image in particular, created on one computer to another one that has dissimilar hardware installed. It can also help you reinstall the system if you are planning to change the hardware such as motherboard, CPU, etc. Available in higher editions like [AOMEI Backupper Professional](https://tools.techidaily.com/ubackup/products/).
 * If you don't create a file backup but you want to perform [hard disk image file restore](https://tools.techidaily.com/ubackup/products/) or from other backup types, try the **Explore image** feature. It requires a professional version as well.
 
 [![Disk Image Explore Home](https://www.ubackup.com/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/explore-image/home-explore-image-disk.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Clone Hard Drive
 
@@ -210,10 +174,6 @@ You can directly clone hard drive to another one with the **[Disk Clone](https:/
 
 * The free version of AOMEI Backupper only supports cloning a data disk. To clone a disk with OS installed, you can [upgrade](https://tools.techidaily.com/ubackup/products/) to higher versions to enjoy it.
 * The [System Clone](https://tools.techidaily.com/ubackup/products/) feature can help you only clone system to new hard drive, which uses less disk space than disk clone. Also, it requires a higher version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -298,24 +258,19 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-compile-of-premium-tiktok-backdrop-options/"><u>[New] 2024 Approved Compile of Premium TikTok Backdrop Options</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-pioneering-time-lapse-mastery-full-slomo-app-evaluation-2024/"><u>[New] Pioneering Time-Lapse Mastery Full SloMo App Evaluation, 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-unveiling-changes-in-sony-bdp-s670/"><u>[New] Unveiling Changes in Sony BDP-S670</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-photography-made-easy-beginners-guide-to-lunapic/"><u>[Updated] 2024 Approved Photography Made Easy Beginner’s Guide to LunaPic</u></a></li>
-<li><a href="https://win-bits.techidaily.com/browser-update-guide-steps-for-latest-version-yl-computing/"><u>Browser Update Guide: Steps for Latest Version - YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-to-downloading-and-installing-your-epson-stylus-nx420-printer-driver-on-windows/"><u>Easy Guide to Downloading and Installing Your Epson Stylus NX420 Printer Driver on Windows</u></a></li>
-<li><a href="https://win-bits.techidaily.com/effective-strategies-for-investigating-crypto-projects-insights-from-yl-computings-approach/"><u>Effective Strategies for Investigating Crypto Projects: Insights From YL Computing's Approach</u></a></li>
-<li><a href="https://win-bits.techidaily.com/empress-wu-zetians-remarkable-contributions-and-accomplishments-in-the-tang-empire-expert-insights-from-yl-computing/"><u>Empress Wu Zetian's Remarkable Contributions and Accomplishments in the Tang Empire - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-do-i-fix-a-problematic-scanner-expert-advice-from-yl-software/"><u>How Do I Fix a Problematic Scanner? Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-bits.techidaily.com/how-effective-is-windows-defender-in-eliminating-malware-insights-from-yl-computing/"><u>How Effective Is Windows Defender in Eliminating Malware? - Insights From YL Computing</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-poco-x6-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Poco X6 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-constructing-an-affordable-google-vr-helmet-at-home/"><u>In 2024, Constructing an Affordable Google VR Helmet at Home</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oneplus-ace-2-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock OnePlus Ace 2</u></a></li>
-<li><a href="https://win-bits.techidaily.com/mastering-monitor-management-adjust-display-properties-via-windows-control-panel-with-yl-software-expertise/"><u>Mastering Monitor Management: Adjust Display Properties via Windows Control Panel with YL Software Expertise</u></a></li>
-<li><a href="https://win-bits.techidaily.com/navigating-information-systems-the-role-of-directories-in-yl-software-solutions/"><u>Navigating Information Systems: The Role of Directories in YL Software Solutions</u></a></li>
-<li><a href="https://win-bits.techidaily.com/recognizing-signs-of-a-compromised-windows-registry-expert-insights-from-yl-computing/"><u>Recognizing Signs of a Compromised Windows Registry: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-bits.techidaily.com/sing-and-socialize-anytime-get-a-bars-premium-karaoke-kit-featuring-professional-cdj-consoles/"><u>Sing and Socialize Anytime - Get a Bar's Premium Karaoke Kit Featuring Professional CDJ Consoles</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-your-age-of-empires-iv-setup-overcome-stubborn-download-failures-with-our-tips/"><u>Troubleshoot Your Age of Empires IV Setup - Overcome Stubborn Download Failures with Our Tips!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unleashing-fun-kinemaster-reviewed-for-android-devices-for-2024/"><u>Unleashing Fun KineMaster Reviewed for Android Devices for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/anticipated-changes-in-microsofts-windows-update-cycle-a-fresh-perspective-by-zdnet/"><u>Anticipated Changes in Microsoft's Windows Update Cycle: A Fresh Perspective by ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/beyond-ransomware-how-unintended-software-glitches-could-bring-vital-systems-to-their-knees-analysis-on-zdnet/"><u>Beyond Ransomware: How Unintended Software Glitches Could Bring Vital Systems to Their Knees | Analysis on ZDNET</u></a></li>
+<li><a href="https://win-bits.techidaily.com/black-friday-bargains-at-microsoft-store-score-a-discounted-300-surface-go-2-or-snag-the-230-acer-convertible-for-less-exclusive-deals-from-zdnet/"><u>Black Friday Bargains at Microsoft Store: Score a Discounted $300 Surface Go 2 or Snag the $230 Acer Convertible for Less! - Exclusive Deals From ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/boost-your-windows-11-laptop-lifespan-essential-9-configuration-adjustments-to-optimize-battery-use/"><u>Boost Your Windows 11 Laptop Lifespan: Essential 9 Configuration Adjustments to Optimize Battery Use</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/calm-and-clear-how-to-smooth-out-a-jittery-gopro-video-for-2024/"><u>Calm and Clear How to Smooth Out a Jittery GoPro Video for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/cutting-edge-online-resources-for-glittering-3d-typography/"><u>Cutting-Edge Online Resources for Glittering 3D Typography</u></a></li>
+<li><a href="https://win-bits.techidaily.com/experience-the-power-of-apples-m1-pro-the-ultimate-windows-11-laptop-showdown-on-a-macbook-pro-zdnet/"><u>Experience the Power of Apple's M1 Pro: The Ultimate Windows 11 Laptop Showdown on a MacBook Pro | ZDNet</u></a></li>
+<li><a href="https://win-bits.techidaily.com/impact-of-googles-antitrust-legal-defeat-implications-for-users-and-the-evolving-landscape-of-online-search-techinsights/"><u>Impact of Google's Antitrust Legal Defeat: Implications for Users & The Evolving Landscape of Online Search | TechInsights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-social-synergy-blueprint-for-ig-and-tiktok-pairing/"><u>In 2024, Social Synergy Blueprint for IG & TikTok Pairing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-youtube-audio-pace-via-devices/"><u>In 2024, Streamlining YouTube Audio Pace via Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlock-youtube-ad-revenue-recent-policy-insights/"><u>In 2024, Unlock YouTube Ad Revenue Recent Policy Insights</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/simple-fixes-for-the-persistent-thread-blocked-by-windows-driver-in-win-10/"><u>Simple Fixes for the Persistent Thread Blocked by Windows Driver in Win 10</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-realme-11x-5g-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Realme 11X 5G Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-poco-m6-pro-4g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Poco M6 Pro 4G Device</u></a></li>
 </ul></div>
 
